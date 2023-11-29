@@ -3,7 +3,7 @@ import { Helmet } from 'react-helmet';
 import { Global, css } from '@emotion/react';
 import { lighten } from 'polished';
 
-import favicon from '../../src/favicon.ico';
+import favicon from '../../src/content/img/favicon-16x16.png';
 import { colors } from '../styles/colors';
 
 type IndexProps = {

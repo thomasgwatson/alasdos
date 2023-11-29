@@ -63,10 +63,9 @@ function IndexPage(props: IndexProps) {
         <meta property="og:description" content={config.description} />
         <meta property="og:url" content={config.siteUrl} />
         <meta property="og:image" content={`${config.siteUrl}${getSrc(props.data.header)}`} />
-        {config.facebook && <meta property="article:publisher" content={config.facebook} />}
-        {config.googleSiteVerification && (
+        {/* {config.googleSiteVerification && (
           <meta name="google-site-verification" content={config.googleSiteVerification} />
-        )}
+        )} */}
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content={config.title} />
         <meta name="twitter:description" content={config.description} />
@@ -147,7 +146,7 @@ export const pageQuery = graphql`
       }
     }
     allMarkdownRemark(
-      sort: { frontmatter: { date: ASC } }
+      sort: { frontmatter: { date: DESC} }
       filter: { frontmatter: { draft: { ne: true } } }
       limit: $limit
       skip: $skip

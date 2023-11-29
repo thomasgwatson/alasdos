@@ -68,7 +68,6 @@ function Tags({ pageContext, data, location }: TagTemplateProps) {
         <meta property="og:type" content="website" />
         <meta property="og:title" content={`${tag} - ${config.title}`} />
         <meta property="og:url" content={config.siteUrl + location.pathname} />
-        {config.facebook && <meta property="article:publisher" content={config.facebook} />}
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content={`${tag} - ${config.title}`} />
         <meta name="twitter:url" content={config.siteUrl + location.pathname} />
@@ -141,7 +140,7 @@ export const pageQuery = graphql`
     }
     allMarkdownRemark(
       limit: 2000
-      sort: { frontmatter: { date: ASC } }
+      sort: { frontmatter: { date: DESC} }
       filter: { frontmatter: { tags: { in: [$tag] }, draft: { ne: true } } }
     ) {
       totalCount

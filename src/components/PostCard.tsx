@@ -75,14 +75,14 @@ export function PostCard({ post, isLarge = false }: PostCardProps) {
         <PostCardMeta className="post-card-meta">
           <AuthorList authors={post.frontmatter.author} tooltip="small" />
           <PostCardBylineContent className="post-card-byline-content">
-            <span>
+            {/* <span>
               {post.frontmatter.author.map((author, index) => (
                 <React.Fragment key={author.name}>
                   <Link to={`/author/${kebabCase(author.name)}/`}>{author.name}</Link>
                   {post.frontmatter.author.length - 1 > index && ', '}
                 </React.Fragment>
               ))}
-            </span>
+            </span> */}
             <span className="post-card-byline-date">
               <time dateTime={datetime}>{displayDatetime}</time>{' '}
               <span className="bull">&bull;</span> {post.fields.readingTime.text}
@@ -195,7 +195,7 @@ const PostCardContentLink = css`
 const PostCardPrimaryTag = styled.div`
   margin: 0 0 0.2em;
   /* color: var(--blue); */
-  color: ${colors.jade};
+  color: ${colors.blue};
   font-size: 1.2rem;
   font-weight: 500;
   letter-spacing: 0.2px;

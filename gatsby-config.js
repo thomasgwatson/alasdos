@@ -92,7 +92,7 @@ module.exports = {
               {
                 allMarkdownRemark(
                   filter: { frontmatter: { draft: { ne: true } } }
-                  sort: { frontmatter: { date: DESC } }
+                  sort: { frontmatter: { date: DESC} }
                 ) {
                   edges {
                     node {
@@ -109,7 +109,7 @@ module.exports = {
               }
             `,
             output: '/rss.xml',
-            title: "Ghost's Blog",
+            title: "Twicefire's RSS Feed",
             match: '^/blog/',
           },
         ],

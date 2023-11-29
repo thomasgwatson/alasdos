@@ -131,8 +131,6 @@ function PageTemplate({ data, pageContext, location }: PageTemplateProps) {
           <meta property="article:tag" content={post.frontmatter.tags[0]} />
         )}
 
-        {config.facebook && <meta property="article:publisher" content={config.facebook} />}
-        {config.facebook && <meta property="article:author" content={config.facebook} />}
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content={post.frontmatter.title} />
         <meta name="twitter:description" content={post.frontmatter.excerpt || post.excerpt} />
@@ -144,7 +142,7 @@ function PageTemplate({ data, pageContext, location }: PageTemplateProps) {
           />
         )}
         <meta name="twitter:label1" content="Written by " />
-        <meta name="twitter:data1" content={post.frontmatter.author[0].name} />
+        <meta name="twitter:data1" content='Tom Watson ' />
         <meta name="twitter:label2" content="Filed under " />
         {post.frontmatter.tags && <meta name="twitter:data2" content={post.frontmatter.tags[0]} />}
         {config.twitter && (
@@ -202,11 +200,11 @@ function PageTemplate({ data, pageContext, location }: PageTemplateProps) {
                     <AuthorList authors={post.frontmatter.author} tooltip="large" />
                     <section className="post-full-byline-meta">
                       <h4 className="author-name">
-                        {post.frontmatter.author.map(author => (
+                        {/* {post.frontmatter.author.map(author => (
                           <Link key={author.name} to={`/author/${kebabCase(author.name)}/`}>
                             {author.name}
                           </Link>
-                        ))}
+                        ))} */}
                       </h4>
                       <div className="byline-meta-content">
                         <time className="byline-meta-date" dateTime={datetime}>
@@ -475,7 +473,7 @@ export const query = graphql`
     relatedPosts: allMarkdownRemark(
       filter: { frontmatter: { tags: { in: [$primaryTag] }, draft: { ne: true } } }
       limit: 5
-      sort: { frontmatter: { date: ASC } }
+      sort: { frontmatter: { date: DESC} }
     ) {
       totalCount
       edges {

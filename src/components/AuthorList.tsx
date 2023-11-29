@@ -13,9 +13,9 @@ type AuthorListProps = {
 export function AuthorList(props: AuthorListProps) {
   return (
     <AuthorListUl className="author-list">
-      {props.authors.map(author => (
+      {/* {props.authors.map(author => (
         <AuthorListItem key={author.name} author={author} tooltip={props.tooltip} />
-      ))}
+      ))} */}
     </AuthorListUl>
   );
 }
