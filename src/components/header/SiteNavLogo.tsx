@@ -22,16 +22,31 @@ export function SiteNavLogo() {
 `}
       render={(data: SiteNavLogoProps) => (
         <Link className="site-nav-logo" css={SiteNavLogoStyles} to="/">
-          {data.logo ? (
-            <img src={getSrc(data.logo)} alt={config.title} />
+          {/* {data.logo ? (
+            <img src={removeSection(getSrc(data.logo))} alt={config.title} />
           ) : (
             config.title
-          )}
+          )} */}
+          {config.title}
         </Link>
       )}
     />
   );
 }
+
+// function removeSection(path: string): string {
+//   const sections: string[] = path.split('/');
+
+//   if (sections.length === 5) {
+//       sections.splice(3, 1);
+
+//       // Join the sections back into a path
+//       const resultPath: string = sections.join('/');
+//       return resultPath;
+//   }
+
+//   return path;
+// }
 
 const SiteNavLogoStyles = css`
   position: relative;
