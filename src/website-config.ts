@@ -1,4 +1,4 @@
-export interface WebsiteConfig {
+export type WebsiteConfig = {
   title: string;
   description: string;
   coverImage: string;
@@ -26,7 +26,7 @@ export interface WebsiteConfig {
    * this is the hidden input field name
    */
   mailchimpName?: string;
-}
+};
 
 const config: WebsiteConfig = {
   title: 'twice fire',
@@ -39,6 +39,6 @@ const config: WebsiteConfig = {
   showSubscribe: false,
   mailchimpAction: 'https://twitter.us19.list-manage.com/subscribe/post?u=a89b6987ac248c81b0b7f3a0f&amp;id=7d777b7d75',
   mailchimpName: 'b_a89b6987ac248c81b0b7f3a0f_7d777b7d75',
-}
+};
 
-export default config
+export default config;

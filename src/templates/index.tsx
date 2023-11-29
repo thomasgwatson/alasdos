@@ -10,8 +10,8 @@ import SiteNav from '../components/header/SiteNav';
 import Pagination from '../components/Pagination';
 import { PostCard } from '../components/PostCard';
 import { Wrapper } from '../components/Wrapper';
-import favicon16 from '../content/img/favicon-16x16.png'
-import favicon32 from '../content/img/favicon-32x32.png'
+import favicon16 from '../content/img/favicon-16x16.png';
+import favicon32 from '../content/img/favicon-32x32.png';
 import IndexLayout from '../layouts';
 import {
   inner,
