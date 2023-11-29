@@ -293,7 +293,7 @@ function IndexLayout(props: IndexProps) {
 
           ::selection {
             text-shadow: none;
-            background: ${lighten('0.3', colors.blue)};
+            background: ${lighten('0.3', colors.jade)};
           }
 
           hr {
@@ -331,7 +331,7 @@ function IndexLayout(props: IndexProps) {
           ol,
           dl,
           blockquote {
-            margin: 0 0 1.5em 0;
+            margin: 1em 0 1.5em 0;
           }
 
           ol,
@@ -407,7 +407,7 @@ function IndexLayout(props: IndexProps) {
           }
 
           a {
-            color: ${lighten('-0.05', colors.blue)};
+            color: ${lighten('-0.05', colors.jade)};
             text-decoration: none;
           }
 

@@ -32,15 +32,6 @@ export function Footer() {
               Twitter
             </a>
           )}
-
-          <a
-            href="https://github.com/scttcper/gatsby-casper"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Casper
-          </a>
-
           <a href="/rss.xml">RSS</a>
         </SiteFooterNav>
       </div>

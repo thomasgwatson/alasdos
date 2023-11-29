@@ -1,3 +1,9 @@
-- id: speeches
-  description: Some of the greatest words ever spoken.
-  image: img/speeches-cover.jpg
+- id: priors
+  description: Foundation concepts for my thinking
+  image: img/darkBackdrops/sunmountain.jpg
+- id: dance
+  description: "Dancing: poetry in motion"
+  image: img/insideadream.jpg
+- id: rites-of-passage
+  description: "Rites-of-passage, coming of age and the threshold between boys and men"
+  image: img/boys.jpg

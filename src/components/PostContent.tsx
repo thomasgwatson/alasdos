@@ -30,7 +30,7 @@ function PostContent({ htmlAst }: PostContentProps) {
 export const PostFullContent = styled.section`
   position: relative;
   margin: 0 auto;
-  padding: 0 170px 6vw;
+  padding: 7px 50px 0;
   min-height: 230px;
   font-family: Georgia, serif;
   font-size: 2rem;
@@ -106,10 +106,10 @@ export const PostFullContent = styled.section`
 
   a:hover {
     /* color: var(--blue); */
-    color: ${colors.blue};
+    color: ${colors.jade};
     text-decoration: none;
     /* box-shadow: var(--blue) 0 -1px 0 inset; */
-    box-shadow: ${colors.blue} 0 -1px 0 inset;
+    box-shadow: ${colors.jade} 0 -1px 0 inset;
   }
 
   strong,
@@ -156,7 +156,7 @@ export const PostFullContent = styled.section`
   blockquote {
     margin: 0 0 1.5em;
     padding: 0 1.5em;
-    border-left: #3eb0ef 3px solid;
+    border-left: #baa935 3px solid;;
   }
   @media (max-width: 500px) {
     blockquote {
@@ -218,12 +218,17 @@ export const PostFullContent = styled.section`
     background: transparent;
   }
 
+  .gatsby-resp-image-link {
+    box-shadow: none;
+  }
+
   pre code :not(span) {
     color: inherit;
   }
 
   .fluid-width-video-wrapper {
     margin: 1.5em 0 3em;
+    padding-bottom: 65% !important;
   }
 
   hr {
@@ -333,13 +338,11 @@ export const PostFullContent = styled.section`
   h5 {
     display: block;
     margin: 0.5em 0;
-    padding: 0.4em 1em 0.9em;
     border: 0;
     /* color: var(--blue); */
-    color: ${colors.blue};
+    color: ${colors.jade};
     font-family: Georgia, serif;
     font-size: 3.2rem;
-    line-height: 1.35em;
     text-align: center;
   }
   @media (min-width: 1180px) {

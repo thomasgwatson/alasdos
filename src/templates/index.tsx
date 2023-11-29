@@ -10,6 +10,8 @@ import SiteNav from '../components/header/SiteNav';
 import Pagination from '../components/Pagination';
 import { PostCard } from '../components/PostCard';
 import { Wrapper } from '../components/Wrapper';
+import favicon16 from '../content/img/favicon-16x16.png'
+import favicon32 from '../content/img/favicon-32x32.png'
 import IndexLayout from '../layouts';
 import {
   inner,
@@ -49,6 +51,8 @@ function IndexPage(props: IndexProps) {
 
   return (
     <IndexLayout css={HomePosts}>
+      <link rel='icon' type='image/png' sizes="16x16" href={`${favicon16}`}/>
+      <link rel='icon' type='image/png' sizes="32x32" href={`${favicon32}`}/>
       <Helmet>
         <html lang={config.lang} />
         <title>{config.title}</title>
@@ -132,12 +136,12 @@ function IndexPage(props: IndexProps) {
 
 export const pageQuery = graphql`
   query blogPageQuery($skip: Int!, $limit: Int!) {
-    logo: file(relativePath: { eq: "img/ghost-logo.png" }) {
+    logo: file(relativePath: { eq: "img/title-logo.png" }) {
       childImageSharp {
         gatsbyImageData(layout: FIXED)
       }
     }
-    header: file(relativePath: { eq: "img/blog-cover.png" }) {
+    header: file(relativePath: { eq: "img/s.jpg" }) {
       childImageSharp {
         gatsbyImageData(width: 2000, quality: 100, layout: FIXED, formats: [AUTO, WEBP, AVIF])
       }

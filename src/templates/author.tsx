@@ -324,7 +324,7 @@ const AuthorBio = styled.h2`
   max-width: 46em;
   font-size: 2rem;
   line-height: 1.3em;
-  font-weight: 400;
+  font-weight: 600;
   opacity: 0.8;
 `;
 
@@ -344,8 +344,8 @@ const AuthorProfileBioImage = css`
   z-index: 10;
   flex-shrink: 0;
   margin: -4px 0 0;
-  width: 110px;
-  height: 110px;
+  width: 120px;
+  height: 120px;
   box-shadow: rgba(255, 255, 255, 0.1) 0 0 0 6px;
   border-radius: 100%;
 `;

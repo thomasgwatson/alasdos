@@ -1,6 +1,7 @@
 export const colors = {
   blue: '#3eb0ef',
   green: '#a4d037',
+  jade: '#05b9a1',
   purple: '#ad26b4',
   yellow: '#fecd35',
   red: '#f05230',
@@ -12,4 +13,5 @@ export const colors = {
   brown: '#a3821a',
   // darkmode: color(var(--darkgrey) l(+2%)),
   darkmode: '#191b1f',
+  gold: '#baa935',
 };

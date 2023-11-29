@@ -92,10 +92,10 @@ const SubscribeOverlay = styled.div<SubscribeOverlayProps>`
     font-weight: 400;
     text-align: center;
     /* background: linear-gradient(
-      color(var(--blue) whiteness(+7%)),
-      color(var(--blue) lightness(-7%) saturation(-10%)) 60%,
-      color(var(--blue) lightness(-7%) saturation(-10%)) 90%,
-      color(var(--blue) lightness(-4%) saturation(-10%))
+      color(var(--jade) whiteness(+7%)),
+      color(var(--jade) lightness(-7%) saturation(-10%)) 60%,
+      color(var(--jade) lightness(-7%) saturation(-10%)) 90%,
+      color(var(--jade) lightness(-4%) saturation(-10%))
     ); */
     background: linear-gradient(#4fb7f0, #29a0e0 60%, #29a0e0 90%, #36a6e2);
     border-radius: 8px;

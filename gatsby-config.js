@@ -3,9 +3,9 @@ const path = require('path');
 
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Casper',
-    description: 'A port of the casper blog built for gatsby',
-    siteUrl: 'https://gatsby-casper.netlify.com', // full path to blog - no ending slash
+    title: 'twicefire',
+    description: 'The internal life of Tom Watson',
+    siteUrl: 'https://twicefire.com', // full path to blog - no ending slash
   },
   mapping: {
     'MarkdownRemark.frontmatter.author': 'AuthorYaml.name',
@@ -54,7 +54,7 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-canonical-urls',
       options: {
-        siteUrl: 'https://gatsby-casper.netlify.com',
+        siteUrl: 'https://twicefire.com',
       },
     },
     'gatsby-plugin-typescript',
@@ -124,7 +124,7 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-google-analytics',
       options: {
-        trackingId: 'UA-XXXX-Y',
+        trackingId: 'UA-132779670-1',
         // Puts tracking script in the head instead of the body
         head: true,
         // IP anonymization for GDPR compliance
