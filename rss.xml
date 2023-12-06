@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Twicefire's RSS Feed]]></title><description><![CDATA[The internal life of Tom Watson]]></description><link>https://twicefire.com</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 06 Dec 2023 06:45:39 GMT</lastBuildDate><item><title><![CDATA[Furnished Room Sublet, Grass Valley: 16 January to mid-march]]></title><description><![CDATA[Come get some time in the foothills of the Sierra Nevada this winter. We’ve had two big snow years the last two seasons, and I’ve loved…]]></description><link>https://twicefire.com/hearthouse/sublet/</link><guid isPermaLink="false">https://twicefire.com/hearthouse/sublet/</guid><pubDate>Wed, 06 Dec 2023 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;Come get some time in the foothills of the Sierra Nevada this winter. We’ve had two big snow years the last two seasons, and I’ve loved being close to the resorts like Sugarbowl, Northstar and Palisades. The distance makes day-trips over Donner pass very viable to those resorts. I am heading home to Australia and New Zealand, for the southern summer, so someone else is going to need to hit those powder runs this winter.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Twicefire's RSS Feed]]></title><description><![CDATA[The internal life of Tom Watson]]></description><link>https://twicefire.com</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 06 Dec 2023 07:00:19 GMT</lastBuildDate><item><title><![CDATA[Furnished Room Sublet, Grass Valley: 16 January to mid-march]]></title><description><![CDATA[Come get some time in the foothills of the Sierra Nevada this winter. We’ve had two big snow years the last two seasons, and I’ve loved…]]></description><link>https://twicefire.com/hearthouse/sublet/</link><guid isPermaLink="false">https://twicefire.com/hearthouse/sublet/</guid><pubDate>Wed, 06 Dec 2023 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;Come get some time in the foothills of the Sierra Nevada this winter. We’ve had two big snow years the last two seasons, and I’ve loved being close to the resorts like Sugarbowl, Northstar and Palisades. The distance makes day-trips over Donner pass very viable to those resorts. I am heading home to Australia and New Zealand, for the southern summer, so someone else is going to need to hit those powder runs this winter.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 2000px; &quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/0fa3634a98ceda3453597c798ca23720/e4bf4/room.jpg&quot;
+    href=&quot;/static/0fa3634a98ceda3453597c798ca23720/e4bf4/rooom.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -18,11 +18,11 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;room&quot;
         title=&quot;&quot;
-        src=&quot;/static/0fa3634a98ceda3453597c798ca23720/451a4/room.jpg&quot;
-        srcset=&quot;/static/0fa3634a98ceda3453597c798ca23720/953fe/room.jpg 500w,
-/static/0fa3634a98ceda3453597c798ca23720/0a251/room.jpg 1000w,
-/static/0fa3634a98ceda3453597c798ca23720/451a4/room.jpg 2000w,
-/static/0fa3634a98ceda3453597c798ca23720/e4bf4/room.jpg 2268w&quot;
+        src=&quot;/static/0fa3634a98ceda3453597c798ca23720/451a4/rooom.jpg&quot;
+        srcset=&quot;/static/0fa3634a98ceda3453597c798ca23720/953fe/rooom.jpg 500w,
+/static/0fa3634a98ceda3453597c798ca23720/0a251/rooom.jpg 1000w,
+/static/0fa3634a98ceda3453597c798ca23720/451a4/rooom.jpg 2000w,
+/static/0fa3634a98ceda3453597c798ca23720/e4bf4/rooom.jpg 2268w&quot;
         sizes=&quot;(max-width: 2000px) 100vw, 2000px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -38,7 +38,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/caea294e7edac21c8e38e58dec71dac9/f5552/pool.jpg&quot;
+    href=&quot;/static/caea294e7edac21c8e38e58dec71dac9/f5552/poool.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -51,9 +51,9 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;pool&quot;
         title=&quot;&quot;
-        src=&quot;/static/caea294e7edac21c8e38e58dec71dac9/f5552/pool.jpg&quot;
-        srcset=&quot;/static/caea294e7edac21c8e38e58dec71dac9/953fe/pool.jpg 500w,
-/static/caea294e7edac21c8e38e58dec71dac9/f5552/pool.jpg 748w&quot;
+        src=&quot;/static/caea294e7edac21c8e38e58dec71dac9/f5552/poool.jpg&quot;
+        srcset=&quot;/static/caea294e7edac21c8e38e58dec71dac9/953fe/poool.jpg 500w,
+/static/caea294e7edac21c8e38e58dec71dac9/f5552/poool.jpg 748w&quot;
         sizes=&quot;(max-width: 748px) 100vw, 748px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -70,7 +70,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/79cf51fbae31b2b561a464775d67105b/f5552/deck.jpg&quot;
+    href=&quot;/static/79cf51fbae31b2b561a464775d67105b/f5552/kced.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -83,9 +83,9 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;deck&quot;
         title=&quot;&quot;
-        src=&quot;/static/79cf51fbae31b2b561a464775d67105b/f5552/deck.jpg&quot;
-        srcset=&quot;/static/79cf51fbae31b2b561a464775d67105b/953fe/deck.jpg 500w,
-/static/79cf51fbae31b2b561a464775d67105b/f5552/deck.jpg 748w&quot;
+        src=&quot;/static/79cf51fbae31b2b561a464775d67105b/f5552/kced.jpg&quot;
+        srcset=&quot;/static/79cf51fbae31b2b561a464775d67105b/953fe/kced.jpg 500w,
+/static/79cf51fbae31b2b561a464775d67105b/f5552/kced.jpg 748w&quot;
         sizes=&quot;(max-width: 748px) 100vw, 748px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
