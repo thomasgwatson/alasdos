@@ -60,13 +60,13 @@ function Author({ data, location }: AuthorTemplateProps) {
     const isDraft = edge.node.frontmatter.draft !== true || process.env.NODE_ENV === 'development';
 
     let authorParticipated = false;
-    if (edge.node.frontmatter.author) {
-      edge.node.frontmatter.author.forEach(element => {
-        if (element.name === author.name) {
-          authorParticipated = true;
-        }
-      });
-    }
+    // if (edge.node.frontmatter.author) {
+    //   edge.node.frontmatter.author.forEach(element => {
+    //     if (element.name === author.name) {
+    //       authorParticipated = true;
+    //     }
+    //   });
+    // }
 
     return isDraft && authorParticipated;
   });
