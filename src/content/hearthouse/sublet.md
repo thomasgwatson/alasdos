@@ -1,7 +1,7 @@
 ---
 layout: post
 excerpt: "Experience mountain life this winter"
-title: "Furnished Room Sublet, Grass Valley: 16 January to mid-march"
+title: "Furnished Room Sublet, Grass Valley: 19 January to mid-march"
 author: Tom Watson
 tags: 
    - hearthouse
