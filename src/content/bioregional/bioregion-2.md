@@ -59,7 +59,7 @@ Based on my readings of prior Bioregional congresses and other bioregionist writ
 
 ### So you have decided to add bioregions to your map...
 
-Of course, this is where I would end up. I am going to take a hard-turn into this specific bioregion related rabbit-hole; putting bioregions on maps. I do not think this is the only Bioregionism-promotion rabbit hole worth digging into but it is one that I have been wrestling with recently. Hylo, the prosocial coordination platform I am working on with the [Terran Collective](terran.io), wants to connect folks based on place-based community ties, including their bioregion. 
+Of course, this is where I would end up. I am going to take a hard-turn into this specific bioregion related rabbit-hole; putting bioregions on maps. I do not think this is the only Bioregionalism-promotion rabbit hole worth digging into but it is one that I have been wrestling with recently. Hylo, the prosocial coordination platform I am working on with the [Terran Collective](terran.io), wants to connect folks based on place-based community ties, including their bioregion. 
 
 The maps we display to help folks see their community in a spatial context are a natural branching point to introduce them to 'their bioregion'. And, as a web and phone application, we are not sure how to facilitate asking a user all the possible questions they might need to be able to tell us what their bioregion is. Nor it is clear exactly what technological backing or data we need to back the code part of that process. I do have some ideas about how we might approach putting bioregions on a map, but first I want to lay out as many of the traps and challenges that one might encounter during such as effort.
 
