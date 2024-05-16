@@ -15,7 +15,7 @@ Posted 2024-03-04
 
 Group-chat is where A LOT of the world is starting their organizing efforts. Its informal, rapid-fire, there are multiple providers of group chat that have VAST infrastructures that help it work in low-bandwidth spaces. And, in own own experiences and others, organizing and coordination hits fiction and stumbling-blocks as groups outgrow group-chats. If only we could wrap those group-chats in the warm embrace of more structured coordination tools... 😉
 
-So we get Hylo Leap. Or Boost. Or Hylo River. I"m just going to use Leap as the working title for now
+So we get Hylo Leap. Or Boost. Or Hylo River. I'm just going to use Leap as the working title for now
 
 Before I launch into my proposal, let me list a bunch of my other assumptions
 
@@ -40,10 +40,9 @@ At this stage, we still have the web-app and the legacy mobile app in operation.
 - Groupchats from connected messaging services are visible in Leap. 
 - Infrastructure for messaging is handled by the respective service.
 - No individal chats from other messaging services are ported over (avoid clutter). 
-- If the original service encrypts messages, this is respected. No copies of group-chat messages are stored in our 
-- 1on1 DMs for Hylo would need to built out separately but are deprioritized initially
+- If the original service encrypts messages, this is respected. No copies of group-chat messages are stored in our backend 
 - Leap users don't even need to be Hylo desktop/web users to get benefit from Leap; they benefit from the coordination provided by power-users, who are full Hylo users
-- Non-leap users from the original group-chats will see get some benefit; links to public hylo content will still be avaiable to them and they will be prompted to join Leap and eventually Hylo
+- Non-leap users from the original group-chats will see get some benefit; links to public hylo content will still be avaiable to them and they will be prompted to join Leap for private content.
 
 ###### Initial Technical/data design
 - Leap users sign up by: phone number? connecting a message service?
