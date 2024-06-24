@@ -86,6 +86,21 @@ How do we make it easier:
 - Deep value created for super-users
 - Easeful engagement of folks outside of the Hylo platform
 
+### Impact on our values
+- Stewardship
+  - This would mainly make existing stewards more effective. In time, I would want to add other features to help increase the growth of regular users into stewardship
+- Adaptation
+  - I think this better positions us in an attention-contested world.
+  - It also boardens our reach; "meeting people where they are at", with app/account-fatigue
+- Co-Creation
+  - This is generally inherent in the way we build things. Of course, I would love to bring this concept to the wider community and it would ultimately depend on their use and engagement
+- Wellbeing
+  - Less direct impact on wellbeing, beyond more events => more connection => greater wellbeing
+- Liberation
+  - Set our users free! Reducing the burden on casual users for downloading an app or signing up to another service is actually really healthy
+- Agency
+  - This helps both super-users better understand how their invites are landing and also allows invitees to better signal their interest or otherwise in the actual content, instead of being befuddled by platform friction.
+
 ### Business outcomes
 - Good foundation for several possible revenue streams from super-users (not necessarily targetting regular/casual users for revenue). These would need marketing.
   - White-labelled outreach for muncipalities, NGOs, county/state governments to connect with their constituents around governance (the isolated views would be white-labeled and mainly what is seen but users can ultimately see content in hylo clients)
