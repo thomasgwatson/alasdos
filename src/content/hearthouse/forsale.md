@@ -21,7 +21,7 @@ The property will be available in Spring 2024. We would love to keep it in the c
 
 The property could easily be split by two couples that are starting their families, as the bedrooms nicely divide into two 'wings' on the top-floor. There is also space for the construction of an ADU, a great way to increase the residential space on the property for guests, family, long or short term rental. The property is on a septic system and gets fresh water from a 15 gpm well.
 
-Please reach out to us at h3arthouse at gmail dot com with your enquiries.
+Please reach out to us at thomasgabriel.watson at gmail dot com with your enquiries.
 
 ![pool](img/sunset7.jpg)
 
