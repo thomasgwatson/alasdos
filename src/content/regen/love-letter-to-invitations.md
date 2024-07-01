@@ -112,6 +112,17 @@ How do we make it easier:
 #### Roll-out concept
 This could be wrapped up into a specific pitch deck to get targetted funding. For the paid-features, I would roll them out to existing paid partners as a testing ground while we work on them, with the understanding that their prior funding is basically credit against any paid-features they wish to continue using. Once a good baseline of functionality is established we can then bring on marketing and outreach, with the goal of starting to generate revenue in late Spring/Summer 2025.
 
+## What does success look like?
+Another key appeal of a focus on invitations is getting two key metrics that can tell us so much about the health of the platform:
+- Number of invites (of all types) sent; and
+- Number of invites engaged with
+
+The first is a quantitative snapshot of activity that is more important than 'monthly active users'. A MAU can count if they just log in and don't engage with anything (correct me if that is wrong). An invitation implies a bridge between two people; it is inherently more relational. And the second metric gives us a sense of the quality of that connection. An invitation that is never opened is a miss for us. An invitation that is actioned in some way is a win.
+
+The first metric tells us about the scale of the platform and growth. The second tells us our conversion rate. If we grow the first without growth in the second, we are becoming noise to users, spammy. Tracking both metrics together encompasses the activities of both ongoing and new users, and breaking each of the key metrics down into all the different sub-types of invitation allows us to have a targeted understanding of what parts of the platform need focus.
+
+Tracking these two metrics and the relationship/ratio of the two would be a more effective anchor for our month-to-month platform health, than MAU and conversion rate.
+
 ![break](../img/icon.jpg)
 
 ## What comes next?
