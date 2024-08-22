@@ -1,13 +1,15 @@
 ---
 layout: post
 excerpt: "We are hoping to keep the property in our circles"
-title: "For Sale: 14838 Christophers Place"
+title: "For Rent: 14838 Christophers Place"
 author: Tom Watson
 tags: 
    - hearthouse
 image: img/driveway.jpg
-date: "2023-12-08T23:46:37.121Z"
+date: "2024-07-05T23:46:37.121Z"
 ---
+
+For Rent, six month lease: 4 bedroom, 3 bathroom 3500+ sqft home on five acres, with lavish pool and pond. $3600 rent per month. Partially furnished.
 
 This is a one of a kind property, with stunning sunset views and a truly unique pool and hottub. Nestled at the intersect of the oak savannah and the alpine forests, a filled with abundant life including deer, turkey, frogs, lizards, and birds of all sorts. Every season brings dramatically different hues and colors. The house is a well-appointed and skillfully laid-out 3,543 square feet. It sits a few hundred yards off a quiet road; very private and very quiet. All of this and you are still only 15 minutes from downtown Nevada City/Grass Valley, 25 minutes from the beautiful Yuba River and just over two hours from the Bay Area. The area holds many hiking and mountain-bike trails, and ready access to the snow resorts of North Lake Tahoe.
 
@@ -15,13 +17,12 @@ This is a fantastic house for hosting pool parties, dinner-parties, overnight gu
 
 ![pool](img/party-sunset.jpg)
 
-The property will be available in Spring 2024. We would love to keep it in the community, and will be talking with interested folk about how we can manage that over the winter. We are hoping to get around 1.1 million for the property and if we can minimize closing costs by running an off-market sale, we would love to share the savings of that with whomever buys the property.
+The property will be available to rent from late August '24 to end of Feburary 2025. We would love to keep it in the community, and will be talking with interested folk about how we can manage that over the winter. In March 2025, we are hoping to get around 1.1 million for the property and if we can minimize closing costs by running an off-market sale, we would love to share the savings of that with whomever buys the property.
 
 ![pool](img/pond-sunset2.jpg)
 
 The property could easily be split by two couples that are starting their families, as the bedrooms nicely divide into two 'wings' on the top-floor. There is also space for the construction of an ADU, a great way to increase the residential space on the property for guests, family, long or short term rental. The property is on a septic system and gets fresh water from a 15 gpm well.
 
-Please reach out to us at thomasgabriel.watson at gmail dot com with your enquiries.
 
 ![pool](img/sunset7.jpg)
 

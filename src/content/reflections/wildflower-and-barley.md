@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt: "A new future"
+excerpt: "Beginnings and endings"
 title: "Wildflower and Barley"
 author: Tom Watson
 tags:

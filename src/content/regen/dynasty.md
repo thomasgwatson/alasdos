@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt: "This is going to be my dynastic version of the \"Date Me\" post phenonema. My prayer, my intention"
+excerpt: "This is going to be my dynastic version of the \"Date Me\" post phenonema. My prayer, my intention for the future"
 title: "Regenerative Dynasty, part 1"
 author: Tom Watson
 tags:
@@ -8,6 +8,8 @@ tags:
 image: ../img/peacoco.jpg
 date: "1994-01-03T23:46:37.121Z"
 ---
+
+First published 17 February, 2024
 
 This is going to be my regnerative-dynastic version of the "Date Me" post phenomena. Take it as a prayer, as an intention; take it as me lighting a beacon.
 
@@ -131,7 +133,7 @@ That's it, in poetry form. For greater detail, you can find clues all over this 
 ![pool](img/the-city.JPG)
 
 
-A grab bag of other little details; I was a teenage high-jump state champion. I did the International Baccalaureate for my high school certificate (fun!). Got swept out to sea on a sky kayak, worked at a summer camp in upstate New York, visited the Zapatistas in Chiapas, got lost on a volcano in Guatemala, and joined the Army Reserve and graduated bootcamp with the skill-at-arms award, a;; before I left my teenage years. I based all my life decisions around ultimate frisbee for a decade of my life. I finished an International Relations degree and joined the Australian Intelligence Community as a map and imagery analyst. Took a team of 20 plus people on a two year campaign to the World Ulitmate Club Championships in Prague.
+A grab bag of other little details; I was a teenage high-jump state champion. I did the International Baccalaureate for my high school certificate (fun!). Got swept out to sea on a sky kayak, worked at a summer camp in upstate New York, visited the Zapatistas in Chiapas, got lost on a volcano in Guatemala, and joined the Army Reserve and graduated bootcamp with the skill-at-arms award, all before I left my teenage years. I based all my life decisions around ultimate frisbee for a decade of my life. I finished an International Relations degree and joined the Australian Intelligence Community as a map and imagery analyst. Took a team of 20 plus people on a two year campaign to the World Ulitmate Club Championships in Prague.
 
 I deployed as an analyst to Afghanistan for four months, including the worst day for casualties the Australian military faced since the Vietnam war. I moved to California to play ultimate and learnt how to code to get a job and visa there. I played one point in a World Club Championship final game; another silver medal. I got booted from my American frisbee team and I got laid-off from my first startup because they couldn't raise more funds. Got a greencard through my next company.
 

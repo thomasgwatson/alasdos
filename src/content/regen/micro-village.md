@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt: "A new future"
+excerpt: "What would it be like..."
 title: "A rural culdesac in the Foothills of the Sierra Nevada"
 author: Tom Watson
 tags:

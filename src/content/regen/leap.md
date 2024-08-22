@@ -1,10 +1,11 @@
 ---
 layout: post
-excerpt: "A new future"
+excerpt: ""
 title: "Hylo Leap"
 author: Tom Watson
 tags:
  - regenerative
+ - hylo
 image: ../img/peacoco.jpg
 date: "2022-03-04T23:46:37.121Z"
 ---

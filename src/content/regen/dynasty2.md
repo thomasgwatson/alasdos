@@ -115,7 +115,7 @@ Difference is to be expected here, and, if we conceive of reality in such differ
 
 
 ###### Purity
-The world is fundamentally messy. I mean this in a physical sense but also in a metaphorical sense. Sometimes we have to rough it to get through. There are some extreme expressions of purity out in the world and I am not likely to make someone of that ilk conformable. We need to roll our sleeves up and muck in.
+The world is fundamentally messy. I mean this in a physical sense but also in a metaphorical sense. Sometimes we have to rough it to get through. There are some extreme expressions of purity out in the world. We need to roll our sleeves up and muck in.
 
 
 ![pool](img/distant-taranaki.JPG)
@@ -183,4 +183,4 @@ These are just the start of all the things about 'her' that I am curious to unde
 You made it this far, congratulations!
 
 
-There isn't a set plan or process or formula for what comes next. Reach out to me and let's figure it out.
+There isn't a set plan or process or formula for what comes next. BUt if there is curiosity in you for what comes next, and you sound like the sort of woman that lines up with a bunch of what I have said... Reach out to me and let's figure it out.
