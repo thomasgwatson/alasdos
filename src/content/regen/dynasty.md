@@ -11,7 +11,7 @@ date: "1994-01-03T23:46:37.121Z"
 
 First published 17 February, 2024
 
-This is going to be my regnerative-dynastic version of the "Date Me" post phenomena. Take it as a prayer, as an intention; take it as me lighting a beacon.
+This is going to be my regenerative-dynastic version of the "Date Me" post phenomena. Take it as a prayer, as an intention; take it as me lighting a beacon.
 
 
 This is worth reading if:

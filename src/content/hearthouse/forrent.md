@@ -1,7 +1,7 @@
 ---
 layout: post
 excerpt: "We are hoping to keep the property in our circles"
-title: "For Rent: 14838 Christophers Place"
+title: "For Sale: 14838 Christophers Place"
 author: Tom Watson
 tags: 
    - hearthouse
@@ -9,15 +9,15 @@ image: img/driveway.jpg
 date: "2024-07-05T23:46:37.121Z"
 ---
 
-For Rent, six month lease: 4 bedroom, 3 bathroom 3500+ sqft home on five acres, with lavish pool and pond. $3600 rent per month. Partially furnished.
+For Sale in Spring of 2025: 4 bedroom, 3 bathroom 3500+ sqft home on five acres, with lavish pool and pond. 1.1 million initial asking price.
 
 This is a one of a kind property, with stunning sunset views and a truly unique pool and hottub. Nestled at the intersect of the oak savannah and the alpine forests, a filled with abundant life including deer, turkey, frogs, lizards, and birds of all sorts. Every season brings dramatically different hues and colors. The house is a well-appointed and skillfully laid-out 3,543 square feet. It sits a few hundred yards off a quiet road; very private and very quiet. All of this and you are still only 15 minutes from downtown Nevada City/Grass Valley, 25 minutes from the beautiful Yuba River and just over two hours from the Bay Area. The area holds many hiking and mountain-bike trails, and ready access to the snow resorts of North Lake Tahoe.
 
-This is a fantastic house for hosting pool parties, dinner-parties, overnight guests and visitors. 4 private bedrooms, 3 full baths, two private decks for each of the 'main' bedrooms, a large rear deck with retracable awnings (overlooking the meadow and pond), spacious kitchen and two large living rooms. Fiber internet brings the world to you with the snap of your fingers. Central heat and air on both floors, plus house-fan, wood-pellet stove and another electric fire-place for climate management. The pool scuplting is inspired by the rocks of the Yuba river and includes multiple waterfalls and a propane heated hottub that can sit twenty. 3 car detached garage and the large unfinished basement round out the storage options for the property. NID water allocation allows you to keep the garden green all summer and feeds the pond at the bottom of the property. The roof and solar system were updated in 2021, doubling the capacity of the solar, and otherwise we have kept on top of maintenance across the property over these years.
+This is a fantastic house for hosting pool parties, mini-retreats, dinner-parties, overnight guests and visitors. 4 private bedrooms, 3 full baths, two private decks for each of the 'main' bedrooms, a large rear deck with retracable awnings (overlooking the meadow and pond), spacious kitchen and two large living rooms. Fiber internet brings the world to you with the snap of your fingers. Central heat and air on both floors, plus house-fan, wood-pellet stove and another electric fire-place for climate management. The pool scuplting is inspired by the rocks of the Yuba river and includes multiple waterfalls and a propane heated hottub that can sit twenty. 3 car detached garage and the large unfinished basement round out the storage options for the property. NID water allocation allows you to keep the garden green all summer and feeds the pond at the bottom of the property. The roof and solar system were updated in 2021, doubling the capacity of the solar, and otherwise we have kept on top of maintenance across the property over these years.
 
 ![pool](img/party-sunset.jpg)
 
-The property will be available to rent from late August '24 to end of Feburary 2025. We would love to keep it in the community, and will be talking with interested folk about how we can manage that over the winter. In March 2025, we are hoping to get around 1.1 million for the property and if we can minimize closing costs by running an off-market sale, we would love to share the savings of that with whomever buys the property.
+In Spring 2025, we will list at 1.1 million for the property and if we can minimize closing costs by running an off-market sale, we would love to share the savings of that with whomever buys the property.
 
 ![pool](img/pond-sunset2.jpg)
 
