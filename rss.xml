@@ -1,4 +1,372 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Twicefire's RSS Feed]]></title><description><![CDATA[The internal life of Tom Watson]]></description><link>https://twicefire.com</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 30 Jul 2025 07:50:22 GMT</lastBuildDate><item><title><![CDATA[It is a beautiful time for West Coast Swing in Melbourne]]></title><description><![CDATA[Last weekend, Melbourne had Revitalize, its first West Coast Swing World-Swing-Dance-Council (WSDC) sanctioned event in 7 or so years. It…]]></description><link>https://twicefire.com/2025/wcs-in-melbourne/</link><guid isPermaLink="false">https://twicefire.com/2025/wcs-in-melbourne/</guid><pubDate>Sun, 27 Jul 2025 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;Last weekend, Melbourne had &lt;a href=&quot;https://www.revitalisewcs.melbourne/&quot;&gt;Revitalize&lt;/a&gt;, its first West Coast Swing &lt;a href=&quot;https://www.worldsdc.com/&quot;&gt;World-Swing-Dance-Council&lt;/a&gt; (WSDC) sanctioned event in 7 or so years. It was a raging success, and it heralds a new chapter for West Coast Swing in Melbourne. At over ~240 participants it may be the largest Australian event of this year!&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Twicefire's RSS Feed]]></title><description><![CDATA[The internal life of Tom Watson]]></description><link>https://twicefire.com</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 23 Jul 2026 12:45:37 GMT</lastBuildDate><item><title><![CDATA[Euro Summer Odyssey]]></title><description><![CDATA[Over the course of ten weekends, I undertook a grand west coast swing Odyssey; eight weekends’ worth of wcs events in ten weeks. Swingsation…]]></description><link>https://twicefire.com/2026/euro-summer-odyssey/</link><guid isPermaLink="false">https://twicefire.com/2026/euro-summer-odyssey/</guid><pubDate>Thu, 23 Jul 2026 09:33:00 GMT</pubDate><content:encoded>&lt;p&gt;Over the course of ten weekends, I undertook a grand west coast swing Odyssey; eight weekends’ worth of wcs events in ten weeks. Swingsation, AUS; Festival City Swing, UK; Crossflow, Berlin DE; D-Town Swing, Düsseldorf DE; Neverland Swing, NE; WOTP, FR and as all good Odysseys involve, a final showdown back home, at Revitalise in Melbourne.&lt;/p&gt;
+&lt;p&gt;I return, all limbs still attached, much wiser, thoroughly danced and with a lighter wallet…&lt;/p&gt;
+&lt;p&gt;Here I share some reflections and musings about my trip, which are de facto bait to force people to look at a few photos from my trip :)&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 2000px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/6e1d1ca3d2f6c91b5eafc6989eccb93e/c7e40/PXL_20260528_130431539.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 133.4%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDAAEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQH/2wBDAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQH/wgARCAAbABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBgkI/8QAGAEAAgMAAAAAAAAAAAAAAAAABAcBBQj/2gAMAwEAAhADEAAAAWq7sutN3Ko2IZNAcJi+UeLnprKI5+Lgb//EAB0QAAICAwADAAAAAAAAAAAAAAQFAgMBBhEHFDH/2gAIAQEAAQUCJ2QJcoBnUTVGOeMbRnAq9vqw4znzLtzBovVmk7K8AaikROHW576hVnw7MqzP/8QAJREAAgEDAgUFAAAAAAAAAAAAAQIDERIhAAQFEzFBcQYiI1Gh/9oACAEDAQE/AeK8GbbxxciDcSSvuNwWMaM8aQBYCiGlxwX+N/acyq4JVSE9McQZFYmBbgDazTXLWmGtgZajvRiOudclVUDNXN2D2typ+61zS38146eNf//EACURAAMAAQIFBAMAAAAAAAAAAAECAwQREgAFBiEiExUxQTNhkv/aAAgBAgEBPwHpvq9OaSpbIycdJSxceR9RhOj5atYWr3CAFlUGiruT8VJFZudbdf8AJ51pPSzbHK7lbFCsB8MBTKRwCO4DIraHuo+OJ5r1nipLWXgab9QSzOJMSVCqBou1V8n+yfrj25X8mYuW8izPUEk9ySEoq/yAP1x//8QAKRAAAwABAwMDAgcAAAAAAAAAAQIDBAUREgAhIhMUIzJBBhAzQlFTYf/aAAgBAQAGPwKGrZDSSb5uDh33fxg2TZUq5/ewhHnYgDfZdz4gnqWRjutoWQUlVDulJuN1dT9wR3H5YWLnNRa42qabhxEbN6JW11jls0X8eYh3hXsQSf5PUo4urabPGxlbHjOdRxVMOZ5rMbeSyWZHJfFnHEMaHY51fw05wNHlc42LCmkpmX+EANXIqYsVrY/J6HYxRkmRyBJ03TcTOi6ZGuYePiyavyok8giHuWH1enzCrQNyoq+ZLKNtV0W+ZOWI2T6RbHzI5aLNnBoV9ivnt5eW6FR+sOQ36phYtmzoRtUJkxoRNhzJAHqRVyUGysT9wer+2Cw2M7/GqqfW5t8pIG5fwQ7nfZlDDy79FO/GmRPIcAkb1tHFerdvs7OzMn0bknjv1lKjMo9xfsGb+1/96//EABoQAQEBAQEBAQAAAAAAAAAAAAERACExQWH/2gAIAQEAAT8hCkRJ5MVB0R46IuXUEUVhIXTaam/1NzK5unksHjPiiAcWXZ8twrGG6G861qkLLF4CJgjYrNoXHHsaqVvrsI4ULiipWarlIm1ZmBGFI9upfAKOoEdPAgso/VCDSj7ldc16EWV/UDvu/9oADAMBAAIAAwAAABBoIDL/xAAaEQEBAQEBAQEAAAAAAAAAAAABESEAMVGB/9oACAEDAQE/EPR5OAgtLkGeti+lWcQJ2CZqiEF5+qQgDBipFUFhGHvMQDwlhkKtYUrr+5//xAAYEQEBAQEBAAAAAAAAAAAAAAABESEAMf/aAAgBAgEBPxCiGODWCNHTDx5gxkzQIYsKAoqOqKzByusRZRLgVLD8ZaAVVprYMn//xAAcEAEBAQADAAMAAAAAAAAAAAABEQAhMUFhcZH/2gAIAQEAAT8QsL0DUCVx52mHxgx2MZDSBqHM50D7fo+E/OMlqPdgkM2SXTIZBmc3fh3W7oq53wu3A+nRIaaviV4G6EEN1F+Bsx0tr8Jmg20mV3rX0zEmPaD4ikSNTi8HBrMJbwRnNPWAtSbtAXZQlKoVXf/Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;break&quot;
+        title=&quot;&quot;
+        src=&quot;/static/6e1d1ca3d2f6c91b5eafc6989eccb93e/451a4/PXL_20260528_130431539.jpg&quot;
+        srcset=&quot;/static/6e1d1ca3d2f6c91b5eafc6989eccb93e/953fe/PXL_20260528_130431539.jpg 500w,
+/static/6e1d1ca3d2f6c91b5eafc6989eccb93e/0a251/PXL_20260528_130431539.jpg 1000w,
+/static/6e1d1ca3d2f6c91b5eafc6989eccb93e/451a4/PXL_20260528_130431539.jpg 2000w,
+/static/6e1d1ca3d2f6c91b5eafc6989eccb93e/c7e40/PXL_20260528_130431539.jpg 3000w&quot;
+        sizes=&quot;(max-width: 2000px) 100vw, 2000px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;I am fortunate enough that I can work remotely; so while I am in a position to do longer dance sojourns, I’m going to take the opportunity. Last year’s “Nordic Triple” of Finnfest, Mooseland and the Norwegian Open really convinced me that the density and variety of events in Europe make it the best destination for such antics. Plus, like last year being my first time to any of the Nordic countries, there are still so many places I haven’t been to, and this trip took me to Scotland, France, Belgium, and Western Germany for the first time.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 2000px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/99c13002b3b02e7a4bef86a11538bcfb/b064b/PXL_20260605_134524729.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 133.4%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDAAEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQH/2wBDAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQH/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAcIBgn/xAAXAQEBAQEAAAAAAAAAAAAAAAAHBgMF/9oADAMBAAIQAxAAAAHI1FGTY5u9Ci8ClRhyy5C6DvwdgRPEjWf/xAAbEAACAwEBAQAAAAAAAAAAAAAEBQIDBgEHAP/aAAgBAQABBQIv0QxLoUTYrRq1x3GdLTQj0N1LHSS7AaNP1umNW8xp5TZRnPQ0p0s/RSaemEFDX7/OIy3/AP/EACQRAAMAAgEDAwUAAAAAAAAAAAECAwQRBRITFAAhIjE0YYGR/9oACAEDAQE/AeM5jmsvnPFt22wnGS+M1ciMKEo47bnGnJ1E9aedKZT16ugVlFnKJiRyzjRNKzs5QFqrQhXJ0djUdfz29cH4618iEmllL340t1kv93MWSbk7SLWQUCTEp7VW7KH4he4FAHSfySd/v2+vr//EACMRAAIBAwQBBQAAAAAAAAAAAAECAwQREgAFITEGFCIjMmH/2gAIAQIBAT8B3Lx/a6LbMoY8akelSeZA7WfD5ocXmZlD2ZBZIroCcTqsqKRKqdI4WgRJGRYnjBaMKQLEma567Pfet4hZ6OOV2WSCSc4xyLdkmjpWLSX5yLhx7vvyUJYIrGSoQu3LjnoIhA/AS17a/8QAJRAAAgIBAwQCAwEAAAAAAAAAAgMBBAUREhMAFCEiBhUjMjNR/9oACAEBAAY/AssqpQwi2ptW6MHl8s0QZO+rG4E06u2uJ9sJrVbtIPQ957R89FkMquvUv1b3ZwuuIQoq5rpvYmD5XTarMJkPFniY0GR1CQcZugVBCnnX0RMsH0gS8kwU+3v52jIf4UzrpmsetFOlxXZmmv6+MnfO/dyaw706strU095uaKBdYK9YWfdkKl7BLFVWZCniVzfzlJxKxuPYyLFayla4FNkrKKw2aMa8CrBC122F/wAZmSWaWLeJzFkJ50kNgfU4NRlvWfrGoFrI/ruOIgps5KxVw779m2CV5ocbJ3awV8rcrvUSyMF2LuPAFsWRyEyDUaSY+8Yvt8cNspRF3GjmbQ1ufM/cZJZ2L7qguaS1Y6tBMUSDFJlFfz/SfkZfN6FRvyKv8rzdO0qy0nrpJrNWFOjRM+Oewr1eKEfjDfMm0hgzLqhRtqCxVyFGrftqaMFyXRCynuxKfdNglKWDGpJZtEfySes64rtULrxXOqlIqGAFa2ryUsiBj19yMikpjduIi13TM9TbdjkTZtUqzrLV8iCsOneMufwGuGuIRESccSwoEYIp2x1//8QAGBABAQEBAQAAAAAAAAAAAAAAAREAITH/2gAIAQEAAT8hnMc9gEzqrYBNZY9q1C4YRyd4e4H2W+puZyHA42ETPbxDQ4GDuwRfoZwglfdkkTjUEMXYPa5AJmdDEGeopKm7klkugeAK0Iw/8JOlc1zpjTjYpIjYXKV8bIwlSsm/tHHvaKXBICniTV+Qn//aAAwDAQACAAMAAAAQjz2w/8QAGBEBAQEBAQAAAAAAAAAAAAAAAREhADH/2gAIAQMBAT8QDmACEg4WaHZ6w2ryFMiIhBGh52Pl0zVcJBuNZwZpBgKFGgmtWZZ3/8QAGBEBAQEBAQAAAAAAAAAAAAAAAREAITH/2gAIAQIBAT8QsR2qoT1TBBoKan2IpJ0gpooBOqkT5sNoqjkbQqwqrwxyBQkFBku//8QAGBABAQEBAQAAAAAAAAAAAAAAAQARECH/2gAIAQEAAT8QHEgFYoGATQMK6EF68I1g52Pt0r2ColLMXEGZxTjussU6gEhK0/KrA4o5IQnOT9rFXBU2W0tTToV8f0k0MXHA5ah7moJLTU8utIjk1IcSn4lvcnidQWsxGQJGJYkUhVIoMCt9dxuf/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;break&quot;
+        title=&quot;&quot;
+        src=&quot;/static/99c13002b3b02e7a4bef86a11538bcfb/451a4/PXL_20260605_134524729.jpg&quot;
+        srcset=&quot;/static/99c13002b3b02e7a4bef86a11538bcfb/953fe/PXL_20260605_134524729.jpg 500w,
+/static/99c13002b3b02e7a4bef86a11538bcfb/0a251/PXL_20260605_134524729.jpg 1000w,
+/static/99c13002b3b02e7a4bef86a11538bcfb/451a4/PXL_20260605_134524729.jpg 2000w,
+/static/99c13002b3b02e7a4bef86a11538bcfb/c7e40/PXL_20260605_134524729.jpg 3000w,
+/static/99c13002b3b02e7a4bef86a11538bcfb/b064b/PXL_20260605_134524729.jpg 3024w&quot;
+        sizes=&quot;(max-width: 2000px) 100vw, 2000px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;Crossflow&lt;/h2&gt;
+&lt;p&gt;The anchor of this trip was Crossflow; pulled together by Emeline and Jakub, and inviting the dance cultures of West Coast Swing, Zouk, Tango and Contact Improv to come together. Once I heard about this event, I kept pondering how I could make getting to Europe for it happen…  What started as just Crossflow certainly blew up beyond what I had initially expected, to a seven week trip. The addition of WOTP contributed a lot to this expansion.&lt;/p&gt;
+&lt;p&gt;Such was my conviction that Crossflow was going to be a special event, I committed to the trip without a workshop pass (they sold out for the WCS track almost instantly). I hoped it would all come together, and a few weeks before the event, thankfully it did when I joined the Berlin WCS facebook group just as a couple were offering up their workshop passes.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/67741bff2dce95cb1398ece1cb42bda8/sheep-grazing-killin.jpg&quot; alt=&quot;break&quot;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;In the end I’m so glad I committed to Crossflow because it really felt like being a part of a special moment in time to be there at the first iteration of the movement&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;This was my first large WCS event &lt;em&gt;without&lt;/em&gt; comps or the requirements of a WSDC event. This was quite freeing in a way; the schedule seemed more spacious, and fewer hard choices were required to pick how to prioritise my time. The pedagogy was largely this: 45 minutes with pros from another dance culture sharing a concept from their movement, and then 45 minutes with pros from your own dance culture bringing that into your dance’s context. I really loved that.&lt;/p&gt;
+&lt;p&gt;I was in the middle tier of WCS peeps, and we were most frequently guided through our dance journeys by the “titans of Brazil”, Igor and Fernanda. It was my first direct experience with them and they were flat-out fantastic.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 2000px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/2570d1230ebecc112dc4c2962affa927/c7e40/PXL_20260629_134111024.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 133.4%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDAAEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQH/2wBDAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQH/wgARCAAbABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAkFBwgG/8QAGAEAAwEBAAAAAAAAAAAAAAAABgcIAgP/2gAMAwEAAhADEAAAAeFthZN+GIDvYnh8rJK+3N4TMmUssgZCctf/xAAbEAACAwEBAQAAAAAAAAAAAAAEBQIDBgEAEv/aAAgBAQABBQJA8gNBSyFcy4L5e3akF5amxEeA9zRwkMU3+8iggOrb4HeryR66e05cIOuudtls/wD/xAAkEQABAwIGAgMAAAAAAAAAAAABAgMRBAUAEhMhQWEGMSIjUf/aAAgBAwEBPwG++JU95dq6mlSWriacqSUuJ0n3WPkdRo5SHHGkaJez5ETmUytyCT45e0kpNrrZSYMU7qhtyFAEEcggkEbgxhmj0XA8HVSErV6HoiIjnZXP4O8GkTJ+14dBQgdCUzAx/8QAJBEAAgIBAgYDAQAAAAAAAAAAAQIDBBEFIQAGEhNBUQcUImH/2gAIAQIBAT8B+O+ctS5YoU9H1Kx9rTI7QIR4pe9Rr21x2IpyjK8UdmRrCwIrb4jSxHASAvN2gMAw1SoMjODMikfwqxBB9ggEeeJbSyxCEw/nMagdZOen22A3gbjfzwew5LPVgd23ZiGBYnck4bG/H//EACYQAAMAAgEDBAEFAAAAAAAAAAECAwQREgATFAUhIjFCFSMkQfD/2gAIAQEABj8CbGzb9z9wfIBmGq8TJpIE5l8k1Vu3piq+3uQW6y/FV+3jUkgo44Gy1l3BVYsBVJ73MFx82VuP119dSy8JhJZ2gyQlKXcISgdlTlsuO8OTEkJNHeaFR8WGXj5KKI3x7Z78aeFnYtxyyJ/HTT4qKiAZWjHJ3zO+LiOXL1SQlcMyc8bN5aV2ns8MZ9e6HakhlPsR0sjHDUBpTLNl4bT3Tl2yaGrL/I4Fh+DFdJ9dQpj3hWXZ/Ts/Ex9W9RGbkXyMaLTxMc05ypKl8pr1ooKYtJfHQ0mJ6VbL8GUEET5/p+AH2zlqLjLa/BHfbKWqzPvmfsDqD+PjcnlHmfGxxy/LRAnrXIkga0CTodYRTGiht5IqVmqmizyM2qI5A2yK7MRM/D5FdcSR01Hcs7nkzH+yf97D6A9h7df/xAAZEAEBAQEBAQAAAAAAAAAAAAABESEAMUH/2gAIAQEAAT8hiyDz+ENIYCo7OgZFDALuTjz/AFZ7495rKeFgvTMYh+C6MBOC89Qnvr9SSbAJyhImSv0h5awExFRDIgFIIMBycPDEoOHTOohSuUYagCOHPQgZJWddQCvRF1cZzFpKDVmw76aYrkD4AAAAAf/aAAwDAQACAAMAAAAQcA58/8QAGBEBAQEBAQAAAAAAAAAAAAAAAREhMQD/2gAIAQMBAT8QyimC0zpZkCJ+jPqGYqCrfjkEIfNRzTvfoJoxRaKQqQPWMjSUEBCtne5//8QAGBEBAQADAAAAAAAAAAAAAAAAAREAITH/2gAIAQIBAT8QMOfEjikaBFjRBQiFVRiGsWAgEQCNDSkzck2Cg31lB4XsUIQqrDqvd5//xAAcEAEBAQABBQAAAAAAAAAAAAABEQAQITFRofH/2gAIAQEAAT8QTIoMujgmWTUHXS/PFoWP/qWsT0B4PmMo+AuaPOVwzQYgiQL6cIn5CB8fWvxH0MG22uAyJCwBrKRhKBQvPbQiglxh0evcU+2+84lmoWNTEkaUNlbbb7VNvJ18hbQO8IyAAZI//f/Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;break&quot;
+        title=&quot;&quot;
+        src=&quot;/static/2570d1230ebecc112dc4c2962affa927/451a4/PXL_20260629_134111024.jpg&quot;
+        srcset=&quot;/static/2570d1230ebecc112dc4c2962affa927/953fe/PXL_20260629_134111024.jpg 500w,
+/static/2570d1230ebecc112dc4c2962affa927/0a251/PXL_20260629_134111024.jpg 1000w,
+/static/2570d1230ebecc112dc4c2962affa927/451a4/PXL_20260629_134111024.jpg 2000w,
+/static/2570d1230ebecc112dc4c2962affa927/c7e40/PXL_20260629_134111024.jpg 3000w&quot;
+        sizes=&quot;(max-width: 2000px) 100vw, 2000px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;But the real mind-bending aspect of the whole event was just the atmosphere and energy of such a curious collection of movers. Brought together with an openness to experiment and play, so many ‘givens’ of our respective cultures had to be let go of; were we dancing just one song together, or two, four or more?! And forget about everyone dancing on a slot, it’s time to hone your floorcraft like never before, as couples spiral and arc all around you. Wait, this music isn’t the bpm/genre I’m used to… too bad!&lt;/p&gt;
+&lt;p&gt;Beyond the named dance cultures, there were also Lindy, Balboa and Forro dancers that braved the experience. WCS champions joined the cohorts as students, wading into the dance melee of a twelve person contact improv jam. It was a delicious chaos, one that will stay with me for some time.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 2000px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/e37e9a9eec3e658620ded57565591962/c7e40/PXL_20260612_184020162.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 133.4%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDAAEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQH/2wBDAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQH/wgARCAAbABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAACQAGAwj/xAAXAQADAQAAAAAAAAAAAAAAAAACAwQF/9oADAMBAAIQAxAAAAE2WnFh1sm3I2fgeRHtw01qWogbrXT/AP/EAB0QAAEFAAMBAAAAAAAAAAAAAAMBAgQFBgAHFAj/2gAIAQEAAQUCBczHnrQk0WaSkezkWI8MzCOzeZ6pse8sW88FBjXQdfaCfhpJJSFrSkRPfOT54v0T1f/EACcRAAECAwUJAAAAAAAAAAAAAAECEQASIQMEEzGxIkFCUmGBkaHS/9oACAEDAQE/AbOYptAEE5ZcNRWrhhvdvMYKOc9sP6i7VCkq2p2AqRL1DaVEKSQoh9R6j//EACURAAECBAQHAAAAAAAAAAAAAAECEQADITEEEyJBQlFhYpHT4f/aAAgBAgEBPwHTLmIdSUXvx9tCK8mcvtcwJ2INpI8TfXC83MczAShiHSGIU2ltn0uQXpSAoEAtfp9j/8QAKBAAAgEDBAIBAwUAAAAAAAAAAQIDBBESAAUTISIxBhQzoUNhgZGx/9oACAEBAAY/AkZ6qtnQZOytUTDyy6Ro4nhzHFdPuA2ZsWT0dm336ZIkqohA4jlhMSVUaYyRcnIVBGPaZF0bwfyFtEZRDs9ZKf293H4601NMEVo2K5IQ8TYuUujqSGHj136trbt1+a1EU20y1S1m30kqG9JPWTNSlIeNopKk1FvqXjcM0EYkJyHkQaGr3WOmEeMcUW1QKsao7qEtK172Abx8e7DsHXMtmjQfqyJIZSvbX48Qrm/l1/etv+cbdWS7pQzbdt9RW7QOTkoEeKOnqJaCOTKKWJZhc4CJ4obsFkxGmEUqqg9DL1+G/wB/gamsx6Lfj1rZ1WsqlU/IamiZUqJUDUcDJx0rBWGVOOR7wm8b5HNW1TsAEMlHE78YESluSZcsY8VuQoubd+zc3Ov/xAAaEAEBAAMBAQAAAAAAAAAAAAABEQAhMVFB/9oACAEBAAE/IYaHr6lrONn0JZAoHifJgsd9SbFBhLwGuB2O68OOAib2mr1r73FbkvxEitb0kwlsz+E+580SOIaJRJAKUCArfEBHY04rrTaV5DB03kE/lHt2WWD3aRb4Z8lYrTio0p73NduoDDv3hCUYcnEWGEWusVl1T//aAAwDAQACAAMAAAAQnPu+/8QAGhEBAQEBAQEBAAAAAAAAAAAAAREhMQBBgf/aAAgBAwEBPxAZw7lqNMBpqAVsB68jjIpjziI+/nO9ACQ27Yo8FxiNCmeMSgsiEdMKHeDnv//EABoRAQEAAwEBAAAAAAAAAAAAAAERACExQfD/2gAIAQIBAT8Q5SgiYaCBpddMhUOA1UPGPsvzxylQSKKdNWjDiuGY+YRUBB1Yz6O5dj0z/8QAGBABAQEBAQAAAAAAAAAAAAAAAREAITH/2gAIAQEAAT8QV+r1aa1POMi6t+oPGwE/VRs5B7tJrII2YBJ16DlyW97CYGHQupq3S3gj5WKHG+jfAjH7ULqwRser8rsTpGaZmujPS5FXUBw1mOpYdwqwIicATIEQYSxBS6jGlbe4cFzEawpU6GlaUZMI+smnn4Ef/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;break&quot;
+        title=&quot;&quot;
+        src=&quot;/static/e37e9a9eec3e658620ded57565591962/451a4/PXL_20260612_184020162.jpg&quot;
+        srcset=&quot;/static/e37e9a9eec3e658620ded57565591962/953fe/PXL_20260612_184020162.jpg 500w,
+/static/e37e9a9eec3e658620ded57565591962/0a251/PXL_20260612_184020162.jpg 1000w,
+/static/e37e9a9eec3e658620ded57565591962/451a4/PXL_20260612_184020162.jpg 2000w,
+/static/e37e9a9eec3e658620ded57565591962/c7e40/PXL_20260612_184020162.jpg 3000w&quot;
+        sizes=&quot;(max-width: 2000px) 100vw, 2000px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Early on I recall walking past Emeline as she was sweeping the event lobby with a broom, and struck by the thought that surely she had more important things to do, offered to take over. Only to be shooed away, “No no, this is your time to enjoy”. Like frenetic parents, they dashed about all weekend, curating and hosting. But wow… to arrive at the end of this experience, and to have the creation of a hallowed space and time, with a vision set forth and brought into being… Massive kudos goes to them, the incredible teaching staff and the operational staff. I left with the irrational compulsion to return next year, however impractical. I was the participant that had travelled the furthest to attend, lured by their siren song. A fitting inclusion on a good odyssey if you ask me. I sincerely hope that they can offer Crossflow over two weekends in 2027.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 2000px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/5a66904aebe30003fdaf343e390f19b4/c7e40/PXL_20260602_113631188.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 133.4%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDAAEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQH/2wBDAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQH/wgARCAAbABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAYIB//EABcBAAMBAAAAAAAAAAAAAAAAAAIDBAD/2gAMAwEAAhADEAAAAaXV0LFo6XMoIdsBUHrH1FY5HwU//8QAGxAAAgMBAQEAAAAAAAAAAAAAAwQBAgUGABP/2gAIAQEAAQUCuevybpZpasAv59o5A5ncm6V9JbIEHRhh9nMMrhXR0UjAWiLmfiKks+2Kf//EACQRAAECBQIHAAAAAAAAAAAAAAECEQADEiExIkEEMlJxgcHw/9oACAEDAQE/ARwy0pVMeWEppNpgquzUB3Wz6m5WIUARcSywtL8i+2dOYKgSwfRLDkm5LgJx0gp7mo7tH2VejH//xAAjEQACAQIGAgMAAAAAAAAAAAABAhESIQADBCIxQRNhcYHB/9oACAECAQE/AfOpzFTcXaQZy2ppuDJikDZFyJDKVkNIOrWYIzfqqOsKvMxd9oA47M37Kk+hSOpwunJVTXEgHgevj8x//8QAJBAAAgICAgICAwEBAAAAAAAAAQIDERITBCEAMRQiMkFCUWH/2gAIAQEABj8C5fIRRxhypZZYfoqrFBI9Izfo51YUfoDqqHnySjuUlI40SxgyP+O0NG5/DBq6NmgAB0CzPHy1Jb1CpK1QrsF7v37vHEHsEniuzSzqvIfbASFUaIdmraKP1XtcWsSAsBSt58OCLkxrGfiO8cpEMcjSMFjEv1YsccWOB1qltKXIfzVCOCdTapso8ZBPGiJJturk6BLf0CD784fEiWVRC22aI9XmqQ7csvzBZi2IsJi94hvOUYU49ciU70QgyySK1yfHIGO3UmDl2W9t9sRYYrFNGpwgmhjU7YQFxebdFms+RYOv/AeySxmLDv5AjyHTa2kMZXIUaKDH36v/AE+SIoxVo4pCF+o2PypomcV6ZowFJFWB5hHMyKtqAAvpGKL/AD3Sqos9muz5/8QAGRABAQEBAQEAAAAAAAAAAAAAAREhADFR/9oACAEBAAE/IUz4JJbL4GZQ4FAmbldTtnoFh6UWIy1IpTDDkqel47oHSXZA3oBQcrwU+1RIpqQi8uGJIQkzta5pCiIdSHItCvuFTrA3OEtKJM2hE47BKyfARSVCciSOOabA6pCH0H2GwJrA0nc/Aul7IU/4H76VaMijXv/aAAwDAQACAAMAAAAQfP7+/8QAGhEBAQEBAQEBAAAAAAAAAAAAAREhADFBUf/aAAgBAwEBPxBysy029KbQUp4ziUIoJFho9PrddHcvEAQq0h4ABDR8KkdRVYO+prpqAC7QA/ISf//EABkRAQEBAQEBAAAAAAAAAAAAAAERITEAUf/aAAgBAgEBPxCFEmAAcH3Bewt8BVEY0KIoBxufe3aUnJGHGGlLNRKQfRQYGFEEWoBe2AqwBh//xAAZEAEBAQEBAQAAAAAAAAAAAAABABEhMUH/2gAIAQEAAT8QVmOqZQHFrIKBVU2bF8K+2CpEBvk/kQoAlqJ45RoERAkvBl6GBFYaF8w43zCM0uJu93SEVOorg6TEZOGJZaRJXgtbJ7zD9YjiCz2Pc1CngGBcocIl1KGRkxI5WD7fmQUSECKJGyYNFBoy0//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;break&quot;
+        title=&quot;&quot;
+        src=&quot;/static/5a66904aebe30003fdaf343e390f19b4/451a4/PXL_20260602_113631188.jpg&quot;
+        srcset=&quot;/static/5a66904aebe30003fdaf343e390f19b4/953fe/PXL_20260602_113631188.jpg 500w,
+/static/5a66904aebe30003fdaf343e390f19b4/0a251/PXL_20260602_113631188.jpg 1000w,
+/static/5a66904aebe30003fdaf343e390f19b4/451a4/PXL_20260602_113631188.jpg 2000w,
+/static/5a66904aebe30003fdaf343e390f19b4/c7e40/PXL_20260602_113631188.jpg 3000w&quot;
+        sizes=&quot;(max-width: 2000px) 100vw, 2000px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;Snippets&lt;/h2&gt;
+&lt;p&gt;WCS events are generally lovely because the WCS community is generally lovely. Paradoxically, that makes it harder for individual events to stand out on community metrics. I enjoyed all the events I went to, met so many lovely dancers and… the predictability of the schedule for WSDC events creates a familiarity of routine that is both comforting and unremarkable. Just another feature of our events that makes it harder for different events to stand apart and offer a distinct experience.&lt;/p&gt;
+&lt;h4&gt;Some idle banter on perceptions in the WCS community&lt;/h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“Europe WCS is so competition focused”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I heard this statement from someone and I was a little surprised… was it? Compared to who/where? Even though I’ve got to dance at events in the USA, Europe and Australia/NZ, I still feel like I don’t have a clear view on this sort of comparison across communities/continents. Europe has many great non-comp events; surely that means that the community is more social dance oriented? But I could also see that in such a large population of dancers (like in Europe), if there was a strong focus on comp dancing, it could actually create demand for non-comp spaces as well, and that (perhaps) US events happen to have more in their schedule to cater for the different focuses across the community. In Australia, we have such a skinny community that all of our events more or less have to try to cater to all the different focuses. Sadly that means some nights the social dancing is quite limited :(&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“What are the differences between dancing in Europe and here?” or “Folks from US/EU say they can go to &lt;opposite continent&gt; to harvest points..”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Of course, dancing in Europe is different from Australia, from the USA, from Asia, etc. But really all these big regions are just a constellation of westie communities, each with their own quirks and traits. Yes, broadly connection is a bigger deal in Europe, but as an Aussie, that is overshadowed simply by the SCALE of the community. There are just so many more dancers, and thus, more variety, more of everything.&lt;/p&gt;
+&lt;p&gt;I always think it’s a bit silly when someone makes a huge generalisation like “We can go to the USA and harvest points”, like the standard in Europe is higher. Partly it’s silly hubris but also, if you go to a specific sub-region in the US, maybe you would do well competitively. But, like in Europe, there are lots of regional differences. For example: While I didn’t try it this trip, I expect that if I entered a JnJ comp in France that I’d be eaten alive by teenagers, because they have a gun juniors program. For JnJ so far this year, I have got into a final and two alt-thirds in Europe, and back in Australia, a final, an alt-1 and a ‘knocked out in prelims’. So maybe Australia is more competitive after all ;P (no, I just think the judges generally whiffed it on the prelims knockout at that one event).&lt;/p&gt;
+&lt;p&gt;Partly the same is true for continental comparisons; when you compare “Europe to US” are you really comparing French WCS to Texan WCS or Romanian to Californian? You’ll get more specific answers by going deeper.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 2000px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/d93e0c4d700a858445847e8c4152a935/c7e40/PXL_20260602_134300491.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 133.4%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDAAEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQH/2wBDAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQH/wgARCAAbABQDASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAcIAwQGCf/EABgBAAMBAQAAAAAAAAAAAAAAAAEDBQQG/9oADAMBAAIQAxAAAAG59qHVr0cy+DGLb5yLhYcFH33YIcB//8QAGhAAAwEBAQEAAAAAAAAAAAAAAwQFAgYBEv/aAAgBAQABBQIk1Eyk9RXGWpw1hd5WPPk8p1jkLGrjtYXZURvdHKaF6YVOwriqcpaj2tBV2yf6/8QAIREBAAEDBAMBAQAAAAAAAAAAAQIDBBEAEiFBMVFhIvH/2gAIAQMBAT8Btbid3bQuYx278mM/ndGWySd4WP8AfKIAegO+sHv5qhQp29tTp0zEKUcHLngO3PKmV9rpo2+VaMFXK7Ic+Pmv/8QAIREBAAEEAQQDAAAAAAAAAAAAAQIDBBEhEgAiMUEFMlH/2gAIAQIBAT8Bvban8fe1LOdTmUuLy1z4yjGpGLsORGRnGnzrYM6klll7ll6fs5/Orm4rXd7WuK0uVSvVVcAGZaAPBE7Q9AdF3cwCJc1wjoCcwDWjEzr/xAAnEAACAgEEAQMEAwAAAAAAAAABAgMEEQUSISIAExQxIzJBUWJx0f/aAAgBAQAGPwKvq0MyPVtxcqBj2kpCjE/GIzhX3Z24IyCy4bz1opKEseW2TrcjMSuAzSSytA5kBroA6qv3SMg/ZGniO8a/rUI7LrsmQs1iaeUSskW4K8sbI7AkuM9iTya+j15GhXVpN9yOM+n69amVCRy/xM8yludrKnPHl6GKhVu1Z1gEtOw00aibEgjce2lRpFIzFLE25JFYFsYGamo0tLpNXt0q8ygYf0yyd4csc/RfMWCFxt+PLAedTBpg9rHJF3TdXid7Dbc8lbVxIzGcjfCB8rw6Fi25QFY7cjDDGecZ/rsT1Gc+LDQ1nU6VcciCtdeGHex3MyxL1Tdntj5OSeST5eR3ystnVJHAAXc7alyegB/A6/aPwPC8bMrLYqlTknBWUMpGc8hgCPD9Q/P6X/PP/8QAGhABAQEBAQEBAAAAAAAAAAAAAREAITFhcf/aAAgBAQABPyGuaJoOBECm4atEwgyW4YRU9oGS7YdW6YoJxAWhKwHryIqDJgheMQYp/Kxg1RexrJUHmZSETQPO9SjzAKAKg3ZRM4+KN+yHphTOg6vMCSUNqKhPqmH/AHFcwZCEgEgIuJU9WXtQKCUTAj6H9Hf/2gAMAwEAAgADAAAAEG83fv/EABoRAQEAAwEBAAAAAAAAAAAAAAERACExQVH/2gAIAQMBAT8Q1AYLCSnGqSmuDpgCdHJ80YmK0k6T3E7gjRBFUSgxqpti+yAEUqVVqu6qqxvz/8QAGhEBAQEBAAMAAAAAAAAAAAAAAREAITFBUf/aAAgBAgEBPxC9qQCBy1m0gAQ3JygzZCB75wSPuH3GsrNRoEFQHByTHGYDwIAQAQAAJDhv/8QAGRABAQEBAQEAAAAAAAAAAAAAAREAIRAx/9oACAEBAAE/EI7+uatjc207FbXnezofrLM+ZqwcN9Xbe/mccod6ZOl02QbW1cJ7yLs+raB4khWIdKBoy0UvlGfwC3YtRxIe32BWstEd0x93MvVS+KAizoTit71myBolDjjq5lEEKsEj1sSFQEqiw4C/AgEAADf/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;break&quot;
+        title=&quot;&quot;
+        src=&quot;/static/d93e0c4d700a858445847e8c4152a935/451a4/PXL_20260602_134300491.jpg&quot;
+        srcset=&quot;/static/d93e0c4d700a858445847e8c4152a935/953fe/PXL_20260602_134300491.jpg 500w,
+/static/d93e0c4d700a858445847e8c4152a935/0a251/PXL_20260602_134300491.jpg 1000w,
+/static/d93e0c4d700a858445847e8c4152a935/451a4/PXL_20260602_134300491.jpg 2000w,
+/static/d93e0c4d700a858445847e8c4152a935/c7e40/PXL_20260602_134300491.jpg 3000w&quot;
+        sizes=&quot;(max-width: 2000px) 100vw, 2000px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;HEAT&lt;/h2&gt;
+&lt;p&gt;I got cooked at a couple of Euro summer events and as others in a &lt;a href=&quot;https://www.facebook.com/WestieDiscussion/posts/pfbid0g8Y8rvDNK8whWNLy9TU8At75m5cRzzwXwieyP5i5fYtnZ5KuhV8SUsbrKwYjnNUel&quot;&gt;related facebook thread&lt;/a&gt; mentioned, it’s a mighty big negative for the idea of returning to such events.&lt;/p&gt;
+&lt;p&gt;There are long-running European events that are going to struggle to get the numbers they once did because of this issue. Typically (not universally!) USA events have more options for AC ballrooms. And Asia/Australia either don’t run events in summer or otherwise are in hot-humid climates where this has always been a problem (and thus venues solve for it). New European events have more options, since they can pick their first venue/time-of-year while factoring in the realities of climate change.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 2000px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/3249eefab1ad7fb0a5e5c05776354b9f/c7e40/PXL_20260702_140810180.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 133.4%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDAAEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQH/2wBDAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQH/wgARCAAbABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAkGBwgK/8QAFwEBAQEBAAAAAAAAAAAAAAAABAMFBv/aAAwDAQACEAMQAAABWnJmDsH53b5si2xZ94aVVlpoq4sU2Xl//8QAHBAAAwADAQEBAAAAAAAAAAAABAUGAgMHARIW/9oACAEBAAEFAoVXVUj2jLuoppn0p3jlxmUAUP2+hLYq7ODWqayZpIRfFSDpMSX1MXz93Ibdn2ekSnDm4+D7/wD/xAAjEQACAQQABgMAAAAAAAAAAAABAhEAAyExBCIyYWJxgaGx/9oACAEDAQE/AbKXbluRedXJYiTKn43vZ+jU8ZPW24167VZusACoXCjGRjXl+U78zHIliY9ma//EACARAAIBBAMAAwAAAAAAAAAAAAECEQADITEEElETMqH/2gAIAQIBAT8BvXbVu9Hwo6AIDAhhgaOsLoY8kUE4mD1XMHO8wfaucdTtml2JkgGCfPrilhQqkdioVS3sACfyv//EACkQAAICAQQBAwIHAAAAAAAAAAIDAQQFABESEyEGFCIzcRUxMoOSosP/2gAIAQEABj8CPB+nJxhX7FZlxpZEvbV4TR2giluzJ5R3QICIER77eIHT8TnsZUrWUHxFvtXnRtjxgxdQuiwE20mM7wSp5R8hYAGJDEx7TH/xsR/trIZ+pDWdFIsaiLbkCtrrXGzY6yBUcprJrgRCcx9UN9pKNWsLmkIuot1N/wAKaXQwoEYZ3IP6qXJshIhbrnuoiAufA5Gc/jKCmjRo5FiagWHix4IkFuWtrZ49prhvCW7fPbfWMxjvVCMbmkE/IWCvjeQCsjkJgeEtKo2tYpqSusspFm4SvsDz8ZHr9U+mcmurbsnQ9nk6bHNq3Q5NXIxY7IlVmdh3g5NYxJQM6zphxkXsqviYmCieylX88omd9BHKeMzESM+Rn7xPjUst4fFPZE+GljqfdH7sJhn9tShMcFJiFqD84AB/SMb7ztH31//EABsQAQEAAwEBAQAAAAAAAAAAAAERACExQXFR/9oACAEBAAE/IZ7o2OI9yih1QG3GxSBNzeKYlaYd6wf5JfADuUDAYgjVY1gFHsjzor9ARuxmHnPQnvAZAnvVWse+mQoXadthTUcDNmhx0AkAOnSAoEABToz5w3jQAA2glj6JMf3cH/A+7W73duQuetoxWoaKs//aAAwDAQACAAMAAAAQlNyO/8QAGhEBAQEBAQEBAAAAAAAAAAAAAREhMQBBUf/aAAgBAwEBPxA+lAjbCz1aKoVpTyaDFcHRDt3fotnXvikgEaYVV0wrq7f2hIcAzgsKHLDrhff/xAAZEQEBAQEBAQAAAAAAAAAAAAABESExQVH/2gAIAQIBAT8QXGRgYooN0KgZ64ghwAkgBTYxM6X7I8+sA1YAQFQKwyPSO8cAvKbLuVl6yv8A/8QAGRABAQEBAQEAAAAAAAAAAAAAAREAIUEQ/9oACAEBAAE/EDed2N5gIesEvi2UJ54VBOIVHTZsctAPMg1wDzBIgLF2y4F8X072YQJdMJ1LHcJS7nE4Cb0uqfFyCRw7HzzdiREDprCx1xkpmmuaRLFtqgANWsrq58aWKK9OuHjVoAETgZPV4HHAUjREj8ywOWG//9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;break&quot;
+        title=&quot;&quot;
+        src=&quot;/static/3249eefab1ad7fb0a5e5c05776354b9f/451a4/PXL_20260702_140810180.jpg&quot;
+        srcset=&quot;/static/3249eefab1ad7fb0a5e5c05776354b9f/953fe/PXL_20260702_140810180.jpg 500w,
+/static/3249eefab1ad7fb0a5e5c05776354b9f/0a251/PXL_20260702_140810180.jpg 1000w,
+/static/3249eefab1ad7fb0a5e5c05776354b9f/451a4/PXL_20260702_140810180.jpg 2000w,
+/static/3249eefab1ad7fb0a5e5c05776354b9f/c7e40/PXL_20260702_140810180.jpg 3000w&quot;
+        sizes=&quot;(max-width: 2000px) 100vw, 2000px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;It is specifically the long-running summer European events that are going to increasingly face this issue, since heatwaves are already more common in the 10-15 years from when they first ran.&lt;/p&gt;
+&lt;p&gt;There are no easy solutions for these events:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Often there are not compatible alternative venues&lt;/li&gt;
+&lt;li&gt;Staff don’t necessarily have experience with tinkering with ad-hoc climate-control solutions&lt;/li&gt;
+&lt;li&gt;Is there budget for extra fans etc?&lt;/li&gt;
+&lt;li&gt;Can you move to a different time of the year? Well, you’ll be super lucky if your pros are available then!&lt;/li&gt;
+&lt;li&gt;It is unlikely that Europe’s built environment will radically shift in the coming decade. Venues are unlikely to get retro-fitted with the right systems anytime soon or consistently across summer events.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 2000px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/29277888beef2354792be41205e7e86d/c7e40/PXL_20260702_151800074.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 133.4%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDAAEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQH/2wBDAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQH/wgARCAAbABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYEBQcI/8QAFwEBAAMAAAAAAAAAAAAAAAAABAADBf/aAAwDAQACEAMQAAABpkjD4wr7oXRU0LTOLoZEM4gmkT//xAAdEAABBAMBAQAAAAAAAAAAAAAFAQIDBAAGEQcT/9oACAEBAAEFAopJnx3/ALZM9WPtbY6meOG4DdQvYlW2LLaTXhr+i6nQw0RhJFOrj1XFVe//xAAhEQACAQQCAgMAAAAAAAAAAAABAgMABBEhEmFRcRQxQf/aAAgBAwEBPwGZrO3lkiMdw5ifgWFxEnIjWQvx5CAezr9NXCiKeaJdrHIyqWIyQpwM4AGfOh6prhX5O9rbO7bZiJwST9k8Z1G+gB1UzmaWSV9NI7OwXS5Y50N4HjZ91//EACERAAIDAAICAgMAAAAAAAAAAAECAwQRITEAEgUUEzJx/9oACAECAQE/AYH+RtQQyhqkazIsmfXmk9A2HGb7cXsR1wo08gZ1SJs1K1iTFeaCOR1X9QzqGIXSTgJ40n++J8d+P1WO7ejVeFVWq4o3QAWqM2DoaSc7J8rxrWghrppSGNI1L4XKooALEBQWOc4AN6A8/8QAKRAAAgEDAgUDBQEAAAAAAAAAAQIDBAURABITFCEiMQZBUSAjQnGhwv/aAAgBAQAGPwLKQTOpZ8MkUjA9T4KqR/dHME4/cMo/xrDgocZw4KnDdVODg4III+QcjpqKKr56egFss8fCpa/lijcuqsyI7cJhtB3LgFnYH5Oqqz+nvT96YI8nL3ipqZJ6ir6FUd4IE4UcOc9gqfKeTkkIJyeNFb7TBJnzvp7VRwt8+6H31A90tdyqbmkIjlqoKCN8bQVjWCZrhGftqcCVYo369PAOiILJd5VLmRlmp4lV5GOWd+HVFiW/Ilmz76rK6mWSKGok3pHMgidBtHbsDyYVT2r3dVAOBnH0f//EABwQAQEBAQEBAAMAAAAAAAAAAAERACExUUFxsf/aAAgBAQABPyFG2AFnsol+L+5TKnsQ/dxAyj5rp0ZyCoh0La8OE4haoko4QjrZG8zqAPWuRfyjPAj2EMlR5WXSRY+xgiKMKucYZN2k3B/rF+ZzWQlSgWcCVta8Xn7vq1zu/9oADAMBAAIAAwAAABAjDv7/xAAZEQEBAQEBAQAAAAAAAAAAAAABESExAEH/2gAIAQMBAT8Qd+CgqaQQsRNAYpsuzoqbAHAUwQFiFIMQAGvSWK/EAoESgBjKDQKBBSX3/8QAFxEBAQEBAAAAAAAAAAAAAAAAAREhAP/aAAgBAgEBPxAs8pvNh0aJ2UJOVMNlnbEyAgIKVWYMb9pEvFZ4oqqmrcIEwFNZMED/xAAdEAEAAgMAAwEAAAAAAAAAAAABESEAMVFBYaFx/9oACAEBAAE/EALYL6CyEBsSNgHJug4XsAdtPRm9mTpIrVhCmSCTSlnTdGg3MYkuF3cY3ZuctsF3WgHoZ44Z3gXwHCFJGgcJuhQop0EA0ptRFih3NSMHh+DYPb+d/MbItt8HJ53N+/PfrP/Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;break&quot;
+        title=&quot;&quot;
+        src=&quot;/static/29277888beef2354792be41205e7e86d/451a4/PXL_20260702_151800074.jpg&quot;
+        srcset=&quot;/static/29277888beef2354792be41205e7e86d/953fe/PXL_20260702_151800074.jpg 500w,
+/static/29277888beef2354792be41205e7e86d/0a251/PXL_20260702_151800074.jpg 1000w,
+/static/29277888beef2354792be41205e7e86d/451a4/PXL_20260702_151800074.jpg 2000w,
+/static/29277888beef2354792be41205e7e86d/c7e40/PXL_20260702_151800074.jpg 3000w&quot;
+        sizes=&quot;(max-width: 2000px) 100vw, 2000px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;One event that fits this description has allegedly gone from close to a thousand participants down to ~800, down to ~600.
+At some level, the dancers (the market) will signal when it’s too hot by not coming back to events… and those event directors might be forced to figure out a change. I just hope no one gets serious heat-stroke before it gets to that.
+In the meantime, I recommend finding someone to get you an invite link to &lt;a href=&quot;https://www.yourdancebuddy.com/&quot;&gt;YourDanceBuddy&lt;/a&gt; and read up on event reviews and seeing if they mention how hot folks are getting.&lt;/p&gt;
+&lt;h2&gt;WOTP&lt;/h2&gt;
+&lt;p&gt;Folks had mentioned that WOTP was one of the best events on the WCS calendar and I absolutely loved it. A week, in France, on the Mediterranean. Wake up, eat, workshops, dinner, social dance, sleep, repeat. Another non-comp banger event, with a spacious schedule. And, unlike the last few events I had been to, WOTP had adequate AC (still not the best but after getting melted several times, I was incredibly grateful).&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 2000px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/49ebb51c103a295f76c5b5f8aca4e5d9/c7e40/PXL_20260705_152625654.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 133.4%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDAAEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQH/2wBDAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQH/wgARCAAbABQDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAMEBQYHCP/EABcBAQEBAQAAAAAAAAAAAAAAAAUEAAH/2gAMAwEAAhADEAAAAdbTxWShemSuHCeJrQ3br6HLaE2f/8QAHhAAAQQCAwEAAAAAAAAAAAAAAwECBQYABAcRFRf/2gAIAQEAAQUC1LHX3oWxRj8hrGM8V8rO0lTj42H5Cu9YjCTOnbOQtCPNarR6AvT3GIidaoxjaiJn/8QAIxEAAgICAQQCAwAAAAAAAAAAAQMCBBESBQATFCEGIiMyUf/aAAgBAwEBPwHkLHxhdWzGpynJ3bitfGnLi0U6jpr1Nv8AbkX2iiC5bqfNFZg1EWVQWjtoNaSVEvaT24bHxmSzLAEvsDiXvPvqfBUMTBDZGW0u4W/kB1mDiYiDhm5DASRL0ZZxgpUpClqhE6LiIxzIk4H96//EACIRAAMAAwACAQUBAAAAAAAAAAECAwQREgATBQYiMkFCUf/aAAgBAgEBPwFPhc4Wn7JyCOknfmz0Ci3Qmhf0zHuDry009inra2+xvMrEyTk5BTFSaNajJMWkgRGfpECnXIVSqgfrwfUnyJaTaxFCaXhcWQmw6mR2n4kp61MzrafzzvYybUycit6Fe6uXbhFVdn/FA0B5/8QAKRAAAgIBBAIBAgcBAAAAAAAAAQIDBAUAERIhEyIxFCMGFTQ1QVGBof/aAAgBAQAGPwL93qHonpn+ANye4/gDs/0NSfl9+lemSKWYV4Z+UjrEvI+q+2w9eZHwDvqjPmMhRjyM0AlsRchXMRcsVR43ZjyCcd29A3TcBvq/kqOcjmwlnG1J8NEP1DHIskVj6w8wkMGMhlNhrS9z+qhF4SjWQ/CZpYq94MH9e14y5H7ck0MXCJa8jbS1cgzPNNv5DHGsYQjmqaSSG7RwYkoVi1OCwyRFwZY/MIbLQzV+aoqmJg3acw2z8VTHVLTw1oopYodrFcyxJLMJ3WOw0flQeQde3ou6Lsh21bzlKWq+TtV8fSkvhabO9U42NLMIK11CCCzH49vGOGwI73OhJlpEmsL9tHkYTSGAeyeSUqpduTP2e+Ow3Ov8b/gOpwiKPNL5peu2k3b23PY+f4IGvjX/xAAdEAEBAAMAAgMAAAAAAAAAAAABEQAhQTGRUYGh/9oACAEBAAE/IV31aUNhoreAVYYGBUI6uBGsC9qZGRulV1HyAUKqL3IoeRBOJ2s7MfQyq4XBarnCw6jwseCB88jgjdEa8lMNJC13FgdsFxhGSgZXg+PHpyARODsoZxensH6YKJLRVq7zKqMEEgBsaej4M//aAAwDAQACAAMAAAAQl/VA/8QAGREBAQEBAQEAAAAAAAAAAAAAAREAMSFh/9oACAEDAQE/EIZgMw3tTFlsmQOQAIMDqFR40YcxhdqpMSwldxBs+ZcBQryveAchDf/EABkRAQADAQEAAAAAAAAAAAAAAAEAESExQf/aAAgBAgEBPxBiKGydkRF+i9GJUjmaDksEEFb2GQiFd7UqJIoIohThCPqXyFwzr6z/xAAbEAEAAwEAAwAAAAAAAAAAAAABABEhMXGBwf/aAAgBAQABPxC/sSAW4AGbJfMiXTyyijSFWBWx7+3em4KgqPAnjKOePZi7xJLFNbG7lbqIcbVhSZ4lPGhm6hJpXpFXcV0IF+xifWp4aQhxPXYRCO486lRKs+QbxLoA1x4iLEWbwunDt33LOCKdT6eb7n//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;break&quot;
+        title=&quot;&quot;
+        src=&quot;/static/49ebb51c103a295f76c5b5f8aca4e5d9/451a4/PXL_20260705_152625654.jpg&quot;
+        srcset=&quot;/static/49ebb51c103a295f76c5b5f8aca4e5d9/953fe/PXL_20260705_152625654.jpg 500w,
+/static/49ebb51c103a295f76c5b5f8aca4e5d9/0a251/PXL_20260705_152625654.jpg 1000w,
+/static/49ebb51c103a295f76c5b5f8aca4e5d9/451a4/PXL_20260705_152625654.jpg 2000w,
+/static/49ebb51c103a295f76c5b5f8aca4e5d9/c7e40/PXL_20260705_152625654.jpg 3000w&quot;
+        sizes=&quot;(max-width: 2000px) 100vw, 2000px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+Non-staff Aussies at WOTP&lt;/p&gt;
+&lt;p&gt;At this stage, between the Nordic triple in ‘25 and the earlier parts of the Odyssey, WOTP included a host of familiar faces, and I had a ball dancing the week away. The participants were mass auditioned into NINE different levelled groups over four hours (the process was a bit mysterious, by design and a good opportunity to practise surrender), with a few adjustments and tweaks during the first day of instruction. It was kinda fun to figure out the structure of it from the inside, with auditions for the lowest and highest levels converging into the middle bulk of the participants getting sorted in the final part of the process. Like at D-town, I received audition blessings from Maxime, although it was later explained to me that in the WOTP case, he had given me and a range of dancers a demotion sticker, thinking it was a promotion sticker, and the other pros had to skip around pulling stickers off bemused participants!&lt;/p&gt;
+&lt;p&gt;We don’t get this extent of levelling at Australian events (it requires a scale we don’t currently have) but when the whole group is at such a similar level, it does make for a very targeted and consistent teaching environment.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/731cb5361bf5721335a9944a421e5964/out-of-killin.jpg&quot; alt=&quot;break&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Speaking of Australian things; at both D-town and WOTP, it was a pleasure to see Zac and Maddy in their ascendancy, getting to take their place amongst incredible dancers/instructors from the US and Europe. Zac took charge of the leaders for the ‘leads vs follows’ dance battle, facing off against last year’s winner, Savannah. And I am pleased to share that we (the leads) won handsomely in the dance-off, which I am hoping the video of it gets shared.&lt;/p&gt;
+&lt;p&gt;Zac asked me on the last night of WOTP about my favourite dances of the trip and shout out to &lt;a href=&quot;https://www.instagram.com/helenejooo&quot;&gt;Helene J Mickle&lt;/a&gt;. I only realised that it was Helene that I had danced with after the fact but those two back-to-back dances on the Sunday night of Neverland Swing were just pure flow-state musicality. A total delight.&lt;/p&gt;
+&lt;p&gt;Another “WOTP special” is the shirt-signing game on the first night, where you must dance with as many different people in three hours as possible, and get them to sign your shirt. I got close enough to the top, with 48 dances in three hours (with five rest songs and one double up with Jodi), to win my very own collectable WOTP lollipop (the winner did a baffling 56 dances, I don’t know where they got the two extra dances from?!).&lt;/p&gt;
+&lt;p&gt;I cannot write about WOTP without paying homage to the palpable love and energy that you can see poured into the event. Maxence is like the avatar of that energy; this whole trip was my first experiences (at Crossflow, D-town and WOTP) of him and Virginie. I really enjoyed their teaching, heart and energy.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 2000px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/5f590fa8461a8054fabadad15e5ed7bb/120d2/PXL_20260706_150957266.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDAAEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQH/2wBDAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQH/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAwn/xAAVAQEBAAAAAAAAAAAAAAAAAAAGB//aAAwDAQACEAMQAAAB2afqUAdy5IBN2X//xAAaEAADAAMBAAAAAAAAAAAAAAADBAUBAhEU/9oACAEBAAEFAoAOZrLj4aizqeAcWpmI2yi7Ssv0/wD/xAAiEQABBAAFBQAAAAAAAAAAAAABAgMREgAEBRMiIVFhYrH/2gAIAQMBAT8BzzAb1V4rho3b2bWh0KDXQwophCUgtiJ5rtBivHt98e2P/8QAIBEBAAIABQUAAAAAAAAAAAAAAgEDAAQFEfATISIjJP/aAAgBAgEBPwHSbZzGhZea0rz0nF5MD51Wrt0dwbJVrcm9S5PqEV+O8rnO+P/EACMQAAICAgEEAgMAAAAAAAAAAAECAxIEESEAEyIxI0EFMlH/2gAIAQEABj8CyKraUyyzqOP1WYrv+6UaZNcWfXPWQuOwcQhlnewb5wLNHseytgruwrvhELeRnUfispws0oDRSYxQgOdEWlQ8j61x1kXVUkUiS63Nu7RkQ7BPxsXXVqHh/frLlilllSaIisxi7ddu+vEKxYM7i7qXYVs3iOpy2NtmmlZj3cgWYyNsmsigkn711//EABkQAQEBAQEBAAAAAAAAAAAAAAERIQAxQf/aAAgBAQABPyFllRbEOq3lnEBTp15a6haYyoMjwSRK1mg1gq9pbYQ+1jqIpjL4ELXjXaDjvwaERojw+bW0J/ugIXMAA//aAAwDAQACAAMAAAAQXN//xAAcEQADAAEFAAAAAAAAAAAAAAABESEAMVFhgbH/2gAIAQMBAT8QI0VVnUgNWFiQsRJSkaDk287/AP/EABwRAQACAQUAAAAAAAAAAAAAAAEAEVEhMUFhkf/aAAgBAgEBPxAhQ2TbuvRDiWnbVcrwZPOqnRP/xAAXEAEBAQEAAAAAAAAAAAAAAAABEQAh/9oACAEBAAE/ED3z8Qd45yZKtqR9btiGEsPIYzgG7zYWA0qqAwNophWhIYF3RNMUW3BGInQKbNOqWJHqi0xGBf/Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;break&quot;
+        title=&quot;&quot;
+        src=&quot;/static/5f590fa8461a8054fabadad15e5ed7bb/451a4/PXL_20260706_150957266.jpg&quot;
+        srcset=&quot;/static/5f590fa8461a8054fabadad15e5ed7bb/953fe/PXL_20260706_150957266.jpg 500w,
+/static/5f590fa8461a8054fabadad15e5ed7bb/0a251/PXL_20260706_150957266.jpg 1000w,
+/static/5f590fa8461a8054fabadad15e5ed7bb/451a4/PXL_20260706_150957266.jpg 2000w,
+/static/5f590fa8461a8054fabadad15e5ed7bb/c7e40/PXL_20260706_150957266.jpg 3000w,
+/static/5f590fa8461a8054fabadad15e5ed7bb/120d2/PXL_20260706_150957266.jpg 4000w&quot;
+        sizes=&quot;(max-width: 2000px) 100vw, 2000px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;The return home&lt;/h2&gt;
+&lt;p&gt;Like all good odysseys, I finally returned home. Revitalise was a lovely homecoming, getting to dance with all of the Australian community again. Fittingly, Revitalise de facto took the place in the Aussie calendar of another event called… “Odyssey”! So there is some poetry there and maybe a &lt;a href=&quot;https://en.wikipedia.org/wiki/Ship_of_Theseus&quot;&gt;Ship of Theseus&lt;/a&gt; gag. While I didn’t get to participate as much as I would have liked (jet-lag and a farewell took me away during part of the event), it was amazing to see the event going from strength to strength in its second year. Amazing that we got over 300 dancers together at an Aussie event and the first tier 5 division (for novice follows) in Australia’s event history.&lt;/p&gt;
+&lt;p&gt;I’m glad to be home, with some sense of routine. But like any good addict, it won’t be long before I’m on the road again (The Open, TAP, Santa Swing in Poland, Swingvester in Austria for NYE, and finally BudaFest… here I come! Don’t need no AC in winter!!!)&lt;/p&gt;</content:encoded></item><item><title><![CDATA[It is a beautiful time for West Coast Swing in Melbourne]]></title><description><![CDATA[Last weekend, Melbourne had Revitalize, its first West Coast Swing World-Swing-Dance-Council (WSDC) sanctioned event in 7 or so years. It…]]></description><link>https://twicefire.com/2025/wcs-in-melbourne/</link><guid isPermaLink="false">https://twicefire.com/2025/wcs-in-melbourne/</guid><pubDate>Sun, 27 Jul 2025 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;Last weekend, Melbourne had &lt;a href=&quot;https://www.revitalisewcs.melbourne/&quot;&gt;Revitalize&lt;/a&gt;, its first West Coast Swing &lt;a href=&quot;https://www.worldsdc.com/&quot;&gt;World-Swing-Dance-Council&lt;/a&gt; (WSDC) sanctioned event in 7 or so years. It was a raging success, and it heralds a new chapter for West Coast Swing in Melbourne. At over ~240 participants it may be the largest Australian event of this year!&lt;/p&gt;
 &lt;p&gt;Why has it taken many years for the second-largest city in Australia to host an event? What marks this moment as a “revitalisation” of the Melbourne WCS community? Well sit down dear reader and let me tell you a tale, a tale I have uncovered over this last year…&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
