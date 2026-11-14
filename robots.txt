@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /recaps/
+Disallow: /recaps-data.json
+
+Sitemap: https://twicefire.com/sitemap-index.xml
